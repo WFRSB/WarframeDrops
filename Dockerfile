@@ -3,6 +3,7 @@ FROM alpine:3.8
 RUN apk add --no-cache \
   tidyhtml \
   bash \
+  jq \
   wget && \
   rm -rf \
     /tmp/*
