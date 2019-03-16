@@ -20,3 +20,5 @@ wget -qO "json/Warframes.json" "http://content.warframe.com/MobileExport/Manifes
 wget -qO "json/Weapons.json" "http://content.warframe.com/MobileExport/Manifest/ExportWeapons.json"
 
 wget -qO - "http://content.warframe.com/dynamic/worldState.php" | jq '.| {BuildLabel: .BuildLabel, Version: .Version, MobileVersion: .MobileVersion}' > json/version.json
+
+# wget -qO - "http://content.warframe.com/MobileExport/Manifest/ExportKeys.json" | sed -z 's/\n/\\n/g' > json/Keys.json
