@@ -19,3 +19,4 @@ wget -qO "json/Upgrades.json" "http://content.warframe.com/MobileExport/Manifest
 wget -qO "json/Warframes.json" "http://content.warframe.com/MobileExport/Manifest/ExportWarframes.json"
 wget -qO "json/Weapons.json" "http://content.warframe.com/MobileExport/Manifest/ExportWeapons.json"
 
+wget -qO - "http://content.warframe.com/dynamic/worldState.php" | jq '.| {BuildLabel: .BuildLabel, Version: .Version, MobileVersion: .MobileVersion}' > json/version.json
