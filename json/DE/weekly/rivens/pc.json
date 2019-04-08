@@ -156,17 +156,6 @@
 	{
 		"itemType" : "Pistol Riven Mod",
 		"compatibility" : "AKBRONCO",
-		"rerolled" : false,
-		"avg" : 185.63,
-		"stddev" : 457.66,
-		"min" : 5,
-		"max" : 2150,
-		"pop" : 0.0661,
-		"median" : 40
-	},
-	{
-		"itemType" : "Pistol Riven Mod",
-		"compatibility" : "AKBRONCO",
 		"rerolled" : true,
 		"avg" : 143.33,
 		"stddev" : 118.42,
@@ -174,6 +163,17 @@
 		"max" : 350,
 		"pop" : 0.0165,
 		"median" : 200
+	},
+	{
+		"itemType" : "Pistol Riven Mod",
+		"compatibility" : "AKBRONCO",
+		"rerolled" : false,
+		"avg" : 185.63,
+		"stddev" : 457.66,
+		"min" : 5,
+		"max" : 2150,
+		"pop" : 0.0661,
+		"median" : 40
 	},
 	{
 		"itemType" : "Pistol Riven Mod",
@@ -200,17 +200,6 @@
 	{
 		"itemType" : "Pistol Riven Mod",
 		"compatibility" : "AKLATO",
-		"rerolled" : true,
-		"avg" : 138,
-		"stddev" : 185.64,
-		"min" : 7,
-		"max" : 500,
-		"pop" : 0.0138,
-		"median" : 55
-	},
-	{
-		"itemType" : "Pistol Riven Mod",
-		"compatibility" : "AKLATO",
 		"rerolled" : false,
 		"avg" : 803.82,
 		"stddev" : 1729.62,
@@ -218,6 +207,17 @@
 		"max" : 6000,
 		"pop" : 0.0303,
 		"median" : 15
+	},
+	{
+		"itemType" : "Pistol Riven Mod",
+		"compatibility" : "AKLATO",
+		"rerolled" : true,
+		"avg" : 138,
+		"stddev" : 185.64,
+		"min" : 7,
+		"max" : 500,
+		"pop" : 0.0138,
+		"median" : 55
 	},
 	{
 		"itemType" : "Pistol Riven Mod",
@@ -244,17 +244,6 @@
 	{
 		"itemType" : "Pistol Riven Mod",
 		"compatibility" : "AKMAGNUS",
-		"rerolled" : true,
-		"avg" : 270.33,
-		"stddev" : 395.41,
-		"min" : 20,
-		"max" : 1499,
-		"pop" : 0.033,
-		"median" : 157.5
-	},
-	{
-		"itemType" : "Pistol Riven Mod",
-		"compatibility" : "AKMAGNUS",
 		"rerolled" : false,
 		"avg" : 355.18,
 		"stddev" : 818.47,
@@ -265,14 +254,14 @@
 	},
 	{
 		"itemType" : "Pistol Riven Mod",
-		"compatibility" : "AKSOMATI",
+		"compatibility" : "AKMAGNUS",
 		"rerolled" : true,
-		"avg" : 173.45,
-		"stddev" : 269.96,
-		"min" : 4,
-		"max" : 1000,
-		"pop" : 0.0303,
-		"median" : 100
+		"avg" : 270.33,
+		"stddev" : 395.41,
+		"min" : 20,
+		"max" : 1499,
+		"pop" : 0.033,
+		"median" : 157.5
 	},
 	{
 		"itemType" : "Pistol Riven Mod",
@@ -284,6 +273,17 @@
 		"max" : 675,
 		"pop" : 0.1128,
 		"median" : 40
+	},
+	{
+		"itemType" : "Pistol Riven Mod",
+		"compatibility" : "AKSOMATI",
+		"rerolled" : true,
+		"avg" : 173.45,
+		"stddev" : 269.96,
+		"min" : 4,
+		"max" : 1000,
+		"pop" : 0.0303,
+		"median" : 100
 	},
 	{
 		"itemType" : "Pistol Riven Mod",
@@ -310,17 +310,6 @@
 	{
 		"itemType" : "Pistol Riven Mod",
 		"compatibility" : "AKVASTO",
-		"rerolled" : false,
-		"avg" : 180.55,
-		"stddev" : 695.61,
-		"min" : 10,
-		"max" : 4500,
-		"pop" : 0.1101,
-		"median" : 50
-	},
-	{
-		"itemType" : "Pistol Riven Mod",
-		"compatibility" : "AKVASTO",
 		"rerolled" : true,
 		"avg" : 165.9,
 		"stddev" : 190.26,
@@ -331,14 +320,14 @@
 	},
 	{
 		"itemType" : "Pistol Riven Mod",
-		"compatibility" : "AKZANI",
-		"rerolled" : true,
-		"avg" : 33.33,
-		"stddev" : 11.79,
-		"min" : 25,
-		"max" : 50,
-		"pop" : 0.0083,
-		"median" : 25
+		"compatibility" : "AKVASTO",
+		"rerolled" : false,
+		"avg" : 180.55,
+		"stddev" : 695.61,
+		"min" : 10,
+		"max" : 4500,
+		"pop" : 0.1101,
+		"median" : 50
 	},
 	{
 		"itemType" : "Pistol Riven Mod",
@@ -349,6 +338,17 @@
 		"min" : 9,
 		"max" : 5000,
 		"pop" : 0.0468,
+		"median" : 25
+	},
+	{
+		"itemType" : "Pistol Riven Mod",
+		"compatibility" : "AKZANI",
+		"rerolled" : true,
+		"avg" : 33.33,
+		"stddev" : 11.79,
+		"min" : 25,
+		"max" : 50,
+		"pop" : 0.0083,
 		"median" : 25
 	},
 	{
@@ -376,17 +376,6 @@
 	{
 		"itemType" : "Rifle Riven Mod",
 		"compatibility" : "AMPREX",
-		"rerolled" : false,
-		"avg" : 180.12,
-		"stddev" : 214.76,
-		"min" : 13,
-		"max" : 1400,
-		"pop" : 0.2477,
-		"median" : 135
-	},
-	{
-		"itemType" : "Rifle Riven Mod",
-		"compatibility" : "AMPREX",
 		"rerolled" : true,
 		"avg" : 398.02,
 		"stddev" : 559.23,
@@ -394,6 +383,17 @@
 		"max" : 4300,
 		"pop" : 0.4073,
 		"median" : 240
+	},
+	{
+		"itemType" : "Rifle Riven Mod",
+		"compatibility" : "AMPREX",
+		"rerolled" : false,
+		"avg" : 180.12,
+		"stddev" : 214.76,
+		"min" : 13,
+		"max" : 1400,
+		"pop" : 0.2477,
+		"median" : 135
 	},
 	{
 		"itemType" : "Pistol Riven Mod",
@@ -420,17 +420,6 @@
 	{
 		"itemType" : "Melee Riven Mod",
 		"compatibility" : "ANKU",
-		"rerolled" : true,
-		"avg" : 1104.25,
-		"stddev" : 1845.45,
-		"min" : 7,
-		"max" : 4300,
-		"pop" : 0.011,
-		"median" : 2200
-	},
-	{
-		"itemType" : "Melee Riven Mod",
-		"compatibility" : "ANKU",
 		"rerolled" : false,
 		"avg" : 370.45,
 		"stddev" : 858.68,
@@ -441,14 +430,14 @@
 	},
 	{
 		"itemType" : "Melee Riven Mod",
-		"compatibility" : "ANKYROS",
+		"compatibility" : "ANKU",
 		"rerolled" : true,
-		"avg" : 154.25,
-		"stddev" : 152.46,
+		"avg" : 1104.25,
+		"stddev" : 1845.45,
 		"min" : 7,
-		"max" : 400,
+		"max" : 4300,
 		"pop" : 0.011,
-		"median" : 280
+		"median" : 2200
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -460,6 +449,17 @@
 		"max" : 50,
 		"pop" : 0.0248,
 		"median" : 10
+	},
+	{
+		"itemType" : "Melee Riven Mod",
+		"compatibility" : "ANKYROS",
+		"rerolled" : true,
+		"avg" : 154.25,
+		"stddev" : 152.46,
+		"min" : 7,
+		"max" : 400,
+		"pop" : 0.011,
+		"median" : 280
 	},
 	{
 		"itemType" : "Shotgun Riven Mod",
@@ -486,17 +486,6 @@
 	{
 		"itemType" : "Pistol Riven Mod",
 		"compatibility" : "ARCA SCISCO",
-		"rerolled" : true,
-		"avg" : 113.31,
-		"stddev" : 99.74,
-		"min" : 8,
-		"max" : 310,
-		"pop" : 0.044,
-		"median" : 80
-	},
-	{
-		"itemType" : "Pistol Riven Mod",
-		"compatibility" : "ARCA SCISCO",
 		"rerolled" : false,
 		"avg" : 45.75,
 		"stddev" : 40.94,
@@ -504,6 +493,17 @@
 		"max" : 200,
 		"pop" : 0.055,
 		"median" : 37.5
+	},
+	{
+		"itemType" : "Pistol Riven Mod",
+		"compatibility" : "ARCA SCISCO",
+		"rerolled" : true,
+		"avg" : 113.31,
+		"stddev" : 99.74,
+		"min" : 8,
+		"max" : 310,
+		"pop" : 0.044,
+		"median" : 80
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -552,17 +552,6 @@
 	{
 		"itemType" : "Shotgun Riven Mod",
 		"compatibility" : "ASTILLA",
-		"rerolled" : true,
-		"avg" : 238.69,
-		"stddev" : 197.86,
-		"min" : 20,
-		"max" : 900,
-		"pop" : 0.2394,
-		"median" : 170
-	},
-	{
-		"itemType" : "Shotgun Riven Mod",
-		"compatibility" : "ASTILLA",
 		"rerolled" : false,
 		"avg" : 123.41,
 		"stddev" : 143.8,
@@ -570,6 +559,17 @@
 		"max" : 1300,
 		"pop" : 0.2229,
 		"median" : 100
+	},
+	{
+		"itemType" : "Shotgun Riven Mod",
+		"compatibility" : "ASTILLA",
+		"rerolled" : true,
+		"avg" : 238.69,
+		"stddev" : 197.86,
+		"min" : 20,
+		"max" : 900,
+		"pop" : 0.2394,
+		"median" : 170
 	},
 	{
 		"itemType" : "Pistol Riven Mod",
@@ -618,17 +618,6 @@
 	{
 		"itemType" : "Rifle Riven Mod",
 		"compatibility" : "ATTICA",
-		"rerolled" : false,
-		"avg" : 59.14,
-		"stddev" : 44.51,
-		"min" : 10,
-		"max" : 250,
-		"pop" : 0.0798,
-		"median" : 50
-	},
-	{
-		"itemType" : "Rifle Riven Mod",
-		"compatibility" : "ATTICA",
 		"rerolled" : true,
 		"avg" : 168.22,
 		"stddev" : 190.74,
@@ -638,15 +627,15 @@
 		"median" : 100
 	},
 	{
-		"itemType" : "Pistol Riven Mod",
-		"compatibility" : "AZIMA",
-		"rerolled" : true,
-		"avg" : 766.79,
-		"stddev" : 2022.49,
-		"min" : 15,
-		"max" : 8000,
-		"pop" : 0.0385,
-		"median" : 155
+		"itemType" : "Rifle Riven Mod",
+		"compatibility" : "ATTICA",
+		"rerolled" : false,
+		"avg" : 59.14,
+		"stddev" : 44.51,
+		"min" : 10,
+		"max" : 250,
+		"pop" : 0.0798,
+		"median" : 50
 	},
 	{
 		"itemType" : "Pistol Riven Mod",
@@ -660,15 +649,15 @@
 		"median" : 35
 	},
 	{
-		"itemType" : "Zaw Riven Mod",
-		"compatibility" : "BALLA",
-		"rerolled" : false,
-		"avg" : 204.03,
-		"stddev" : 650.96,
-		"min" : 10,
-		"max" : 4000,
-		"pop" : 0.2064,
-		"median" : 40
+		"itemType" : "Pistol Riven Mod",
+		"compatibility" : "AZIMA",
+		"rerolled" : true,
+		"avg" : 766.79,
+		"stddev" : 2022.49,
+		"min" : 15,
+		"max" : 8000,
+		"pop" : 0.0385,
+		"median" : 155
 	},
 	{
 		"itemType" : "Zaw Riven Mod",
@@ -682,15 +671,15 @@
 		"median" : 100
 	},
 	{
-		"itemType" : "Pistol Riven Mod",
-		"compatibility" : "BALLISTICA",
-		"rerolled" : true,
-		"avg" : 148,
-		"stddev" : 241.22,
-		"min" : 5,
-		"max" : 1000,
-		"pop" : 0.0413,
-		"median" : 45
+		"itemType" : "Zaw Riven Mod",
+		"compatibility" : "BALLA",
+		"rerolled" : false,
+		"avg" : 204.03,
+		"stddev" : 650.96,
+		"min" : 10,
+		"max" : 4000,
+		"pop" : 0.2064,
+		"median" : 40
 	},
 	{
 		"itemType" : "Pistol Riven Mod",
@@ -702,6 +691,17 @@
 		"max" : 480,
 		"pop" : 0.0633,
 		"median" : 35
+	},
+	{
+		"itemType" : "Pistol Riven Mod",
+		"compatibility" : "BALLISTICA",
+		"rerolled" : true,
+		"avg" : 148,
+		"stddev" : 241.22,
+		"min" : 5,
+		"max" : 1000,
+		"pop" : 0.0413,
+		"median" : 45
 	},
 	{
 		"itemType" : "Rifle Riven Mod",
@@ -728,17 +728,6 @@
 	{
 		"itemType" : "Rifle Riven Mod",
 		"compatibility" : "BAZA",
-		"rerolled" : true,
-		"avg" : 182.08,
-		"stddev" : 235.12,
-		"min" : 9,
-		"max" : 1500,
-		"pop" : 0.1816,
-		"median" : 100
-	},
-	{
-		"itemType" : "Rifle Riven Mod",
-		"compatibility" : "BAZA",
 		"rerolled" : false,
 		"avg" : 124.45,
 		"stddev" : 260.85,
@@ -746,6 +735,17 @@
 		"max" : 2000,
 		"pop" : 0.1761,
 		"median" : 80
+	},
+	{
+		"itemType" : "Rifle Riven Mod",
+		"compatibility" : "BAZA",
+		"rerolled" : true,
+		"avg" : 182.08,
+		"stddev" : 235.12,
+		"min" : 9,
+		"max" : 1500,
+		"pop" : 0.1816,
+		"median" : 100
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -772,17 +772,6 @@
 	{
 		"itemType" : "Shotgun Riven Mod",
 		"compatibility" : "BOAR",
-		"rerolled" : false,
-		"avg" : 107.08,
-		"stddev" : 167.04,
-		"min" : 7,
-		"max" : 1253,
-		"pop" : 0.1706,
-		"median" : 70
-	},
-	{
-		"itemType" : "Shotgun Riven Mod",
-		"compatibility" : "BOAR",
 		"rerolled" : true,
 		"avg" : 398.38,
 		"stddev" : 1164.03,
@@ -792,15 +781,15 @@
 		"median" : 130
 	},
 	{
-		"itemType" : "Melee Riven Mod",
-		"compatibility" : "BOLTACE",
+		"itemType" : "Shotgun Riven Mod",
+		"compatibility" : "BOAR",
 		"rerolled" : false,
-		"avg" : 50.36,
-		"stddev" : 40.9,
-		"min" : 10,
-		"max" : 180,
-		"pop" : 0.0385,
-		"median" : 45
+		"avg" : 107.08,
+		"stddev" : 167.04,
+		"min" : 7,
+		"max" : 1253,
+		"pop" : 0.1706,
+		"median" : 70
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -812,6 +801,17 @@
 		"max" : 50,
 		"pop" : 0.0055,
 		"median" : NaN
+	},
+	{
+		"itemType" : "Melee Riven Mod",
+		"compatibility" : "BOLTACE",
+		"rerolled" : false,
+		"avg" : 50.36,
+		"stddev" : 40.9,
+		"min" : 10,
+		"max" : 180,
+		"pop" : 0.0385,
+		"median" : 45
 	},
 	{
 		"itemType" : "Pistol Riven Mod",
@@ -838,17 +838,6 @@
 	{
 		"itemType" : "Rifle Riven Mod",
 		"compatibility" : "BOLTOR",
-		"rerolled" : true,
-		"avg" : 167.7,
-		"stddev" : 192.89,
-		"min" : 5,
-		"max" : 860,
-		"pop" : 0.1101,
-		"median" : 90
-	},
-	{
-		"itemType" : "Rifle Riven Mod",
-		"compatibility" : "BOLTOR",
 		"rerolled" : false,
 		"avg" : 85.03,
 		"stddev" : 117.16,
@@ -858,15 +847,15 @@
 		"median" : 50
 	},
 	{
-		"itemType" : "Pistol Riven Mod",
-		"compatibility" : "BRAKK",
+		"itemType" : "Rifle Riven Mod",
+		"compatibility" : "BOLTOR",
 		"rerolled" : true,
-		"avg" : 68.75,
-		"stddev" : 41.89,
-		"min" : 25,
-		"max" : 120,
-		"pop" : 0.011,
-		"median" : 110
+		"avg" : 167.7,
+		"stddev" : 192.89,
+		"min" : 5,
+		"max" : 860,
+		"pop" : 0.1101,
+		"median" : 90
 	},
 	{
 		"itemType" : "Pistol Riven Mod",
@@ -880,15 +869,15 @@
 		"median" : 20
 	},
 	{
-		"itemType" : "Rifle Riven Mod",
-		"compatibility" : "BRATON",
-		"rerolled" : false,
-		"avg" : 210.09,
-		"stddev" : 985.28,
-		"min" : 10,
-		"max" : 7250,
-		"pop" : 0.1459,
-		"median" : 50
+		"itemType" : "Pistol Riven Mod",
+		"compatibility" : "BRAKK",
+		"rerolled" : true,
+		"avg" : 68.75,
+		"stddev" : 41.89,
+		"min" : 25,
+		"max" : 120,
+		"pop" : 0.011,
+		"median" : 110
 	},
 	{
 		"itemType" : "Rifle Riven Mod",
@@ -902,14 +891,14 @@
 		"median" : 60
 	},
 	{
-		"itemType" : "Melee Riven Mod",
-		"compatibility" : "BROKEN SCEPTER",
-		"rerolled" : true,
-		"avg" : 245.29,
-		"stddev" : 335.6,
-		"min" : 7,
-		"max" : 1020,
-		"pop" : 0.0193,
+		"itemType" : "Rifle Riven Mod",
+		"compatibility" : "BRATON",
+		"rerolled" : false,
+		"avg" : 210.09,
+		"stddev" : 985.28,
+		"min" : 10,
+		"max" : 7250,
+		"pop" : 0.1459,
 		"median" : 50
 	},
 	{
@@ -922,6 +911,17 @@
 		"max" : 200,
 		"pop" : 0.0358,
 		"median" : 25
+	},
+	{
+		"itemType" : "Melee Riven Mod",
+		"compatibility" : "BROKEN SCEPTER",
+		"rerolled" : true,
+		"avg" : 245.29,
+		"stddev" : 335.6,
+		"min" : 7,
+		"max" : 1020,
+		"pop" : 0.0193,
+		"median" : 50
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -970,17 +970,6 @@
 	{
 		"itemType" : "Pistol Riven Mod",
 		"compatibility" : "BURST LASER",
-		"rerolled" : false,
-		"avg" : 224,
-		"stddev" : 102.49,
-		"min" : 50,
-		"max" : 350,
-		"pop" : 0.0138,
-		"median" : 220
-	},
-	{
-		"itemType" : "Pistol Riven Mod",
-		"compatibility" : "BURST LASER",
 		"rerolled" : true,
 		"avg" : 210,
 		"stddev" : 132.48,
@@ -988,6 +977,17 @@
 		"max" : 400,
 		"pop" : 0.011,
 		"median" : 325
+	},
+	{
+		"itemType" : "Pistol Riven Mod",
+		"compatibility" : "BURST LASER",
+		"rerolled" : false,
+		"avg" : 224,
+		"stddev" : 102.49,
+		"min" : 50,
+		"max" : 350,
+		"pop" : 0.0138,
+		"median" : 220
 	},
 	{
 		"itemType" : "Rifle Riven Mod",
@@ -1014,17 +1014,6 @@
 	{
 		"itemType" : "Rifle Riven Mod",
 		"compatibility" : "BUZLOK",
-		"rerolled" : true,
-		"avg" : 179.66,
-		"stddev" : 222.05,
-		"min" : 5,
-		"max" : 900,
-		"pop" : 0.0798,
-		"median" : 100
-	},
-	{
-		"itemType" : "Rifle Riven Mod",
-		"compatibility" : "BUZLOK",
 		"rerolled" : false,
 		"avg" : 91.81,
 		"stddev" : 118.4,
@@ -1032,6 +1021,17 @@
 		"max" : 600,
 		"pop" : 0.0853,
 		"median" : 50
+	},
+	{
+		"itemType" : "Rifle Riven Mod",
+		"compatibility" : "BUZLOK",
+		"rerolled" : true,
+		"avg" : 179.66,
+		"stddev" : 222.05,
+		"min" : 5,
+		"max" : 900,
+		"pop" : 0.0798,
+		"median" : 100
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -1102,23 +1102,23 @@
 	{
 		"itemType" : "Melee Riven Mod",
 		"compatibility" : "CAUSTACYST",
-		"rerolled" : false,
-		"avg" : 40.95,
-		"stddev" : 36.41,
-		"min" : 5,
-		"max" : 173,
-		"pop" : 0.0523,
-		"median" : 30
-	},
-	{
-		"itemType" : "Melee Riven Mod",
-		"compatibility" : "CAUSTACYST",
 		"rerolled" : true,
 		"avg" : 87.86,
 		"stddev" : 110.13,
 		"min" : 20,
 		"max" : 350,
 		"pop" : 0.0193,
+		"median" : 30
+	},
+	{
+		"itemType" : "Melee Riven Mod",
+		"compatibility" : "CAUSTACYST",
+		"rerolled" : false,
+		"avg" : 40.95,
+		"stddev" : 36.41,
+		"min" : 5,
+		"max" : 173,
+		"pop" : 0.0523,
 		"median" : 30
 	},
 	{
@@ -1146,17 +1146,6 @@
 	{
 		"itemType" : "Melee Riven Mod",
 		"compatibility" : "CERATA",
-		"rerolled" : true,
-		"avg" : 78.93,
-		"stddev" : 67.64,
-		"min" : 15,
-		"max" : 240,
-		"pop" : 0.0385,
-		"median" : 50
-	},
-	{
-		"itemType" : "Melee Riven Mod",
-		"compatibility" : "CERATA",
 		"rerolled" : false,
 		"avg" : 45.79,
 		"stddev" : 21.24,
@@ -1164,6 +1153,17 @@
 		"max" : 100,
 		"pop" : 0.0385,
 		"median" : 44
+	},
+	{
+		"itemType" : "Melee Riven Mod",
+		"compatibility" : "CERATA",
+		"rerolled" : true,
+		"avg" : 78.93,
+		"stddev" : 67.64,
+		"min" : 15,
+		"max" : 240,
+		"pop" : 0.0385,
+		"median" : 50
 	},
 	{
 		"itemType" : "Rifle Riven Mod",
@@ -1278,17 +1278,6 @@
 	{
 		"itemType" : "Melee Riven Mod",
 		"compatibility" : "CRONUS",
-		"rerolled" : false,
-		"avg" : 422.27,
-		"stddev" : 781.26,
-		"min" : 5,
-		"max" : 2150,
-		"pop" : 0.0303,
-		"median" : 50
-	},
-	{
-		"itemType" : "Melee Riven Mod",
-		"compatibility" : "CRONUS",
 		"rerolled" : true,
 		"avg" : 10,
 		"stddev" : 0,
@@ -1296,6 +1285,17 @@
 		"max" : 10,
 		"pop" : 0.0028,
 		"median" : 10
+	},
+	{
+		"itemType" : "Melee Riven Mod",
+		"compatibility" : "CRONUS",
+		"rerolled" : false,
+		"avg" : 422.27,
+		"stddev" : 781.26,
+		"min" : 5,
+		"max" : 2150,
+		"pop" : 0.0303,
+		"median" : 50
 	},
 	{
 		"itemType" : "Zaw Riven Mod",
@@ -1344,17 +1344,6 @@
 	{
 		"itemType" : "Rifle Riven Mod",
 		"compatibility" : "DAIKYU",
-		"rerolled" : false,
-		"avg" : 88.24,
-		"stddev" : 130.13,
-		"min" : 15,
-		"max" : 650,
-		"pop" : 0.1238,
-		"median" : 50
-	},
-	{
-		"itemType" : "Rifle Riven Mod",
-		"compatibility" : "DAIKYU",
 		"rerolled" : true,
 		"avg" : 216.4,
 		"stddev" : 278.7,
@@ -1364,15 +1353,15 @@
 		"median" : 120
 	},
 	{
-		"itemType" : "Melee Riven Mod",
-		"compatibility" : "DAKRA PRIME",
+		"itemType" : "Rifle Riven Mod",
+		"compatibility" : "DAIKYU",
 		"rerolled" : false,
-		"avg" : 152.94,
-		"stddev" : 261.74,
-		"min" : 10,
-		"max" : 1010,
-		"pop" : 0.0468,
-		"median" : 40
+		"avg" : 88.24,
+		"stddev" : 130.13,
+		"min" : 15,
+		"max" : 650,
+		"pop" : 0.1238,
+		"median" : 50
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -1387,14 +1376,14 @@
 	},
 	{
 		"itemType" : "Melee Riven Mod",
-		"compatibility" : "DARK DAGGER",
-		"rerolled" : true,
-		"avg" : 17,
-		"stddev" : 4.97,
+		"compatibility" : "DAKRA PRIME",
+		"rerolled" : false,
+		"avg" : 152.94,
+		"stddev" : 261.74,
 		"min" : 10,
-		"max" : 21,
-		"pop" : 0.0083,
-		"median" : 20
+		"max" : 1010,
+		"pop" : 0.0468,
+		"median" : 40
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -1409,14 +1398,14 @@
 	},
 	{
 		"itemType" : "Melee Riven Mod",
-		"compatibility" : "DARK SPLIT-SWORD",
+		"compatibility" : "DARK DAGGER",
 		"rerolled" : true,
-		"avg" : 570.86,
-		"stddev" : 814.64,
-		"min" : 15,
-		"max" : 3500,
-		"pop" : 0.1569,
-		"median" : 210
+		"avg" : 17,
+		"stddev" : 4.97,
+		"min" : 10,
+		"max" : 21,
+		"pop" : 0.0083,
+		"median" : 20
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -1431,14 +1420,14 @@
 	},
 	{
 		"itemType" : "Melee Riven Mod",
-		"compatibility" : "DARK SWORD",
-		"rerolled" : false,
-		"avg" : 225.92,
-		"stddev" : 433.53,
-		"min" : 10,
-		"max" : 1500,
-		"pop" : 0.0358,
-		"median" : 35
+		"compatibility" : "DARK SPLIT-SWORD",
+		"rerolled" : true,
+		"avg" : 570.86,
+		"stddev" : 814.64,
+		"min" : 15,
+		"max" : 3500,
+		"pop" : 0.1569,
+		"median" : 210
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -1450,6 +1439,17 @@
 		"max" : 5400,
 		"pop" : 0.0055,
 		"median" : NaN
+	},
+	{
+		"itemType" : "Melee Riven Mod",
+		"compatibility" : "DARK SWORD",
+		"rerolled" : false,
+		"avg" : 225.92,
+		"stddev" : 433.53,
+		"min" : 10,
+		"max" : 1500,
+		"pop" : 0.0358,
+		"median" : 35
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -1476,17 +1476,6 @@
 	{
 		"itemType" : "Zaw Riven Mod",
 		"compatibility" : "DEHTAT",
-		"rerolled" : true,
-		"avg" : 390.2,
-		"stddev" : 608.36,
-		"min" : 25,
-		"max" : 2120,
-		"pop" : 0.055,
-		"median" : 100
-	},
-	{
-		"itemType" : "Zaw Riven Mod",
-		"compatibility" : "DEHTAT",
 		"rerolled" : false,
 		"avg" : 221.27,
 		"stddev" : 694.68,
@@ -1494,6 +1483,17 @@
 		"max" : 4200,
 		"pop" : 0.1128,
 		"median" : 35
+	},
+	{
+		"itemType" : "Zaw Riven Mod",
+		"compatibility" : "DEHTAT",
+		"rerolled" : true,
+		"avg" : 390.2,
+		"stddev" : 608.36,
+		"min" : 25,
+		"max" : 2120,
+		"pop" : 0.055,
+		"median" : 100
 	},
 	{
 		"itemType" : "Rifle Riven Mod",
@@ -1520,17 +1520,6 @@
 	{
 		"itemType" : "Pistol Riven Mod",
 		"compatibility" : "DESPAIR",
-		"rerolled" : false,
-		"avg" : 316.36,
-		"stddev" : 813.68,
-		"min" : 3,
-		"max" : 3603,
-		"pop" : 0.0605,
-		"median" : 30
-	},
-	{
-		"itemType" : "Pistol Riven Mod",
-		"compatibility" : "DESPAIR",
 		"rerolled" : true,
 		"avg" : 113.57,
 		"stddev" : 112.08,
@@ -1540,15 +1529,15 @@
 		"median" : 50
 	},
 	{
-		"itemType" : "Melee Riven Mod",
-		"compatibility" : "DESTREZA",
+		"itemType" : "Pistol Riven Mod",
+		"compatibility" : "DESPAIR",
 		"rerolled" : false,
-		"avg" : 63.23,
-		"stddev" : 33.56,
-		"min" : 10,
-		"max" : 150,
-		"pop" : 0.1211,
-		"median" : 60
+		"avg" : 316.36,
+		"stddev" : 813.68,
+		"min" : 3,
+		"max" : 3603,
+		"pop" : 0.0605,
+		"median" : 30
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -1562,15 +1551,15 @@
 		"median" : 130
 	},
 	{
-		"itemType" : "Rifle Riven Mod",
-		"compatibility" : "DETH MACHINE RIFLE",
-		"rerolled" : true,
-		"avg" : 284.38,
-		"stddev" : 273.56,
-		"min" : 150,
-		"max" : 1000,
-		"pop" : 0.022,
-		"median" : 200
+		"itemType" : "Melee Riven Mod",
+		"compatibility" : "DESTREZA",
+		"rerolled" : false,
+		"avg" : 63.23,
+		"stddev" : 33.56,
+		"min" : 10,
+		"max" : 150,
+		"pop" : 0.1211,
+		"median" : 60
 	},
 	{
 		"itemType" : "Rifle Riven Mod",
@@ -1584,15 +1573,15 @@
 		"median" : 150
 	},
 	{
-		"itemType" : "Pistol Riven Mod",
-		"compatibility" : "DETRON",
+		"itemType" : "Rifle Riven Mod",
+		"compatibility" : "DETH MACHINE RIFLE",
 		"rerolled" : true,
-		"avg" : 267.61,
-		"stddev" : 352.42,
-		"min" : 10,
-		"max" : 1800,
-		"pop" : 0.0853,
-		"median" : 100
+		"avg" : 284.38,
+		"stddev" : 273.56,
+		"min" : 150,
+		"max" : 1000,
+		"pop" : 0.022,
+		"median" : 200
 	},
 	{
 		"itemType" : "Pistol Riven Mod",
@@ -1606,15 +1595,15 @@
 		"median" : 60
 	},
 	{
-		"itemType" : "Melee Riven Mod",
-		"compatibility" : "DEX DAKRA",
-		"rerolled" : false,
-		"avg" : 85.4,
-		"stddev" : 177.52,
-		"min" : 5,
+		"itemType" : "Pistol Riven Mod",
+		"compatibility" : "DETRON",
+		"rerolled" : true,
+		"avg" : 267.61,
+		"stddev" : 352.42,
+		"min" : 10,
 		"max" : 1800,
-		"pop" : 0.2835,
-		"median" : 50
+		"pop" : 0.0853,
+		"median" : 100
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -1628,15 +1617,15 @@
 		"median" : 100
 	},
 	{
-		"itemType" : "Zaw Riven Mod",
-		"compatibility" : "DOKRAHM",
-		"rerolled" : true,
-		"avg" : 225.15,
-		"stddev" : 282.89,
-		"min" : 8,
-		"max" : 2000,
-		"pop" : 0.4293,
-		"median" : 150
+		"itemType" : "Melee Riven Mod",
+		"compatibility" : "DEX DAKRA",
+		"rerolled" : false,
+		"avg" : 85.4,
+		"stddev" : 177.52,
+		"min" : 5,
+		"max" : 1800,
+		"pop" : 0.2835,
+		"median" : 50
 	},
 	{
 		"itemType" : "Zaw Riven Mod",
@@ -1650,15 +1639,15 @@
 		"median" : 80
 	},
 	{
-		"itemType" : "Melee Riven Mod",
-		"compatibility" : "DRAGON NIKANA",
+		"itemType" : "Zaw Riven Mod",
+		"compatibility" : "DOKRAHM",
 		"rerolled" : true,
-		"avg" : 316.22,
-		"stddev" : 641.27,
-		"min" : 10,
-		"max" : 4300,
-		"pop" : 0.1376,
-		"median" : 135.5
+		"avg" : 225.15,
+		"stddev" : 282.89,
+		"min" : 8,
+		"max" : 2000,
+		"pop" : 0.4293,
+		"median" : 150
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -1672,15 +1661,15 @@
 		"median" : 75
 	},
 	{
-		"itemType" : "Shotgun Riven Mod",
-		"compatibility" : "DRAKGOON",
-		"rerolled" : false,
-		"avg" : 117.58,
-		"stddev" : 207.93,
-		"min" : 2,
-		"max" : 1000,
-		"pop" : 0.0661,
-		"median" : 50
+		"itemType" : "Melee Riven Mod",
+		"compatibility" : "DRAGON NIKANA",
+		"rerolled" : true,
+		"avg" : 316.22,
+		"stddev" : 641.27,
+		"min" : 10,
+		"max" : 4300,
+		"pop" : 0.1376,
+		"median" : 135.5
 	},
 	{
 		"itemType" : "Shotgun Riven Mod",
@@ -1694,15 +1683,15 @@
 		"median" : 70
 	},
 	{
-		"itemType" : "Rifle Riven Mod",
-		"compatibility" : "DREAD",
+		"itemType" : "Shotgun Riven Mod",
+		"compatibility" : "DRAKGOON",
 		"rerolled" : false,
-		"avg" : 103.74,
-		"stddev" : 153.2,
-		"min" : 15,
+		"avg" : 117.58,
+		"stddev" : 207.93,
+		"min" : 2,
 		"max" : 1000,
-		"pop" : 0.1679,
-		"median" : 60
+		"pop" : 0.0661,
+		"median" : 50
 	},
 	{
 		"itemType" : "Rifle Riven Mod",
@@ -1716,15 +1705,15 @@
 		"median" : 100
 	},
 	{
-		"itemType" : "Pistol Riven Mod",
-		"compatibility" : "DUAL CESTRA",
+		"itemType" : "Rifle Riven Mod",
+		"compatibility" : "DREAD",
 		"rerolled" : false,
-		"avg" : 190.67,
-		"stddev" : 764.55,
-		"min" : 5,
-		"max" : 4300,
-		"pop" : 0.0826,
-		"median" : 37.5
+		"avg" : 103.74,
+		"stddev" : 153.2,
+		"min" : 15,
+		"max" : 1000,
+		"pop" : 0.1679,
+		"median" : 60
 	},
 	{
 		"itemType" : "Pistol Riven Mod",
@@ -1736,6 +1725,17 @@
 		"max" : 10,
 		"pop" : 0.0055,
 		"median" : NaN
+	},
+	{
+		"itemType" : "Pistol Riven Mod",
+		"compatibility" : "DUAL CESTRA",
+		"rerolled" : false,
+		"avg" : 190.67,
+		"stddev" : 764.55,
+		"min" : 5,
+		"max" : 4300,
+		"pop" : 0.0826,
+		"median" : 37.5
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -1806,17 +1806,6 @@
 	{
 		"itemType" : "Melee Riven Mod",
 		"compatibility" : "DUAL ICHOR",
-		"rerolled" : true,
-		"avg" : 70,
-		"stddev" : 58.88,
-		"min" : 10,
-		"max" : 150,
-		"pop" : 0.0083,
-		"median" : 50
-	},
-	{
-		"itemType" : "Melee Riven Mod",
-		"compatibility" : "DUAL ICHOR",
 		"rerolled" : false,
 		"avg" : 86.44,
 		"stddev" : 212.99,
@@ -1824,6 +1813,17 @@
 		"max" : 900,
 		"pop" : 0.044,
 		"median" : 37.5
+	},
+	{
+		"itemType" : "Melee Riven Mod",
+		"compatibility" : "DUAL ICHOR",
+		"rerolled" : true,
+		"avg" : 70,
+		"stddev" : 58.88,
+		"min" : 10,
+		"max" : 150,
+		"pop" : 0.0083,
+		"median" : 50
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -1883,17 +1883,6 @@
 	{
 		"itemType" : "Melee Riven Mod",
 		"compatibility" : "DUAL SKANA",
-		"rerolled" : true,
-		"avg" : 157,
-		"stddev" : 169.52,
-		"min" : 5,
-		"max" : 400,
-		"pop" : 0.0248,
-		"median" : 20
-	},
-	{
-		"itemType" : "Melee Riven Mod",
-		"compatibility" : "DUAL SKANA",
 		"rerolled" : false,
 		"avg" : 140,
 		"stddev" : 183.85,
@@ -1901,6 +1890,17 @@
 		"max" : 400,
 		"pop" : 0.0083,
 		"median" : 10
+	},
+	{
+		"itemType" : "Melee Riven Mod",
+		"compatibility" : "DUAL SKANA",
+		"rerolled" : true,
+		"avg" : 157,
+		"stddev" : 169.52,
+		"min" : 5,
+		"max" : 400,
+		"pop" : 0.0248,
+		"median" : 20
 	},
 	{
 		"itemType" : "Pistol Riven Mod",
@@ -1938,17 +1938,6 @@
 	{
 		"itemType" : "Pistol Riven Mod",
 		"compatibility" : "EMBOLIST",
-		"rerolled" : true,
-		"avg" : 39.29,
-		"stddev" : 29.21,
-		"min" : 5,
-		"max" : 100,
-		"pop" : 0.0193,
-		"median" : 40
-	},
-	{
-		"itemType" : "Pistol Riven Mod",
-		"compatibility" : "EMBOLIST",
 		"rerolled" : false,
 		"avg" : 210.31,
 		"stddev" : 308.49,
@@ -1956,6 +1945,17 @@
 		"max" : 1000,
 		"pop" : 0.0358,
 		"median" : 30
+	},
+	{
+		"itemType" : "Pistol Riven Mod",
+		"compatibility" : "EMBOLIST",
+		"rerolled" : true,
+		"avg" : 39.29,
+		"stddev" : 29.21,
+		"min" : 5,
+		"max" : 100,
+		"pop" : 0.0193,
+		"median" : 40
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -2070,17 +2070,6 @@
 	{
 		"itemType" : "Melee Riven Mod",
 		"compatibility" : "FALCOR",
-		"rerolled" : false,
-		"avg" : 198.86,
-		"stddev" : 693.83,
-		"min" : 13,
-		"max" : 3300,
-		"pop" : 0.0578,
-		"median" : 45
-	},
-	{
-		"itemType" : "Melee Riven Mod",
-		"compatibility" : "FALCOR",
 		"rerolled" : true,
 		"avg" : 33.33,
 		"stddev" : 14.34,
@@ -2091,13 +2080,13 @@
 	},
 	{
 		"itemType" : "Melee Riven Mod",
-		"compatibility" : "FANG",
-		"rerolled" : true,
-		"avg" : 109.8,
-		"stddev" : 166.1,
-		"min" : 6,
-		"max" : 440,
-		"pop" : 0.0138,
+		"compatibility" : "FALCOR",
+		"rerolled" : false,
+		"avg" : 198.86,
+		"stddev" : 693.83,
+		"min" : 13,
+		"max" : 3300,
+		"pop" : 0.0578,
 		"median" : 45
 	},
 	{
@@ -2112,15 +2101,15 @@
 		"median" : 35
 	},
 	{
-		"itemType" : "Rifle Riven Mod",
-		"compatibility" : "FERROX",
-		"rerolled" : false,
-		"avg" : 77.4,
-		"stddev" : 65.49,
-		"min" : 12,
-		"max" : 300,
-		"pop" : 0.0826,
-		"median" : 55
+		"itemType" : "Melee Riven Mod",
+		"compatibility" : "FANG",
+		"rerolled" : true,
+		"avg" : 109.8,
+		"stddev" : 166.1,
+		"min" : 6,
+		"max" : 440,
+		"pop" : 0.0138,
+		"median" : 45
 	},
 	{
 		"itemType" : "Rifle Riven Mod",
@@ -2135,14 +2124,14 @@
 	},
 	{
 		"itemType" : "Rifle Riven Mod",
-		"compatibility" : "FLUX RIFLE",
-		"rerolled" : true,
-		"avg" : 50,
-		"stddev" : 55.77,
-		"min" : 15,
-		"max" : 160,
-		"pop" : 0.0138,
-		"median" : 20
+		"compatibility" : "FERROX",
+		"rerolled" : false,
+		"avg" : 77.4,
+		"stddev" : 65.49,
+		"min" : 12,
+		"max" : 300,
+		"pop" : 0.0826,
+		"median" : 55
 	},
 	{
 		"itemType" : "Rifle Riven Mod",
@@ -2156,15 +2145,15 @@
 		"median" : 17.5
 	},
 	{
-		"itemType" : "Melee Riven Mod",
-		"compatibility" : "FRAGOR",
+		"itemType" : "Rifle Riven Mod",
+		"compatibility" : "FLUX RIFLE",
 		"rerolled" : true,
-		"avg" : 518.45,
-		"stddev" : 1132.84,
-		"min" : 10,
-		"max" : 4000,
-		"pop" : 0.0303,
-		"median" : 100
+		"avg" : 50,
+		"stddev" : 55.77,
+		"min" : 15,
+		"max" : 160,
+		"pop" : 0.0138,
+		"median" : 20
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -2179,14 +2168,14 @@
 	},
 	{
 		"itemType" : "Melee Riven Mod",
-		"compatibility" : "FURAX",
-		"rerolled" : false,
-		"avg" : 339,
-		"stddev" : 559.99,
-		"min" : 20,
-		"max" : 1888,
+		"compatibility" : "FRAGOR",
+		"rerolled" : true,
+		"avg" : 518.45,
+		"stddev" : 1132.84,
+		"min" : 10,
+		"max" : 4000,
 		"pop" : 0.0303,
-		"median" : 46
+		"median" : 100
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -2198,6 +2187,17 @@
 		"max" : 160,
 		"pop" : 0.0138,
 		"median" : 40
+	},
+	{
+		"itemType" : "Melee Riven Mod",
+		"compatibility" : "FURAX",
+		"rerolled" : false,
+		"avg" : 339,
+		"stddev" : 559.99,
+		"min" : 20,
+		"max" : 1888,
+		"pop" : 0.0303,
+		"median" : 46
 	},
 	{
 		"itemType" : "Pistol Riven Mod",
@@ -2268,17 +2268,6 @@
 	{
 		"itemType" : "Melee Riven Mod",
 		"compatibility" : "GALVACORD",
-		"rerolled" : true,
-		"avg" : 225.56,
-		"stddev" : 174.91,
-		"min" : 50,
-		"max" : 850,
-		"pop" : 0.0743,
-		"median" : 200
-	},
-	{
-		"itemType" : "Melee Riven Mod",
-		"compatibility" : "GALVACORD",
 		"rerolled" : false,
 		"avg" : 114.03,
 		"stddev" : 95.76,
@@ -2286,6 +2275,17 @@
 		"max" : 500,
 		"pop" : 0.0908,
 		"median" : 100
+	},
+	{
+		"itemType" : "Melee Riven Mod",
+		"compatibility" : "GALVACORD",
+		"rerolled" : true,
+		"avg" : 225.56,
+		"stddev" : 174.91,
+		"min" : 50,
+		"max" : 850,
+		"pop" : 0.0743,
+		"median" : 200
 	},
 	{
 		"itemType" : "Pistol Riven Mod",
@@ -2312,17 +2312,6 @@
 	{
 		"itemType" : "Melee Riven Mod",
 		"compatibility" : "GAZAL MACHETE",
-		"rerolled" : false,
-		"avg" : 155.71,
-		"stddev" : 250.78,
-		"min" : 5,
-		"max" : 750,
-		"pop" : 0.0193,
-		"median" : 40
-	},
-	{
-		"itemType" : "Melee Riven Mod",
-		"compatibility" : "GAZAL MACHETE",
 		"rerolled" : true,
 		"avg" : 355,
 		"stddev" : 345,
@@ -2332,15 +2321,15 @@
 		"median" : NaN
 	},
 	{
-		"itemType" : "Kitgun Riven Mod",
-		"compatibility" : "GAZE",
-		"rerolled" : true,
-		"avg" : 433.78,
-		"stddev" : 981.26,
-		"min" : 2,
-		"max" : 5500,
-		"pop" : 0.1266,
-		"median" : 77.5
+		"itemType" : "Melee Riven Mod",
+		"compatibility" : "GAZAL MACHETE",
+		"rerolled" : false,
+		"avg" : 155.71,
+		"stddev" : 250.78,
+		"min" : 5,
+		"max" : 750,
+		"pop" : 0.0193,
+		"median" : 40
 	},
 	{
 		"itemType" : "Kitgun Riven Mod",
@@ -2352,6 +2341,17 @@
 		"max" : 3000,
 		"pop" : 0.2394,
 		"median" : 35
+	},
+	{
+		"itemType" : "Kitgun Riven Mod",
+		"compatibility" : "GAZE",
+		"rerolled" : true,
+		"avg" : 433.78,
+		"stddev" : 981.26,
+		"min" : 2,
+		"max" : 5500,
+		"pop" : 0.1266,
+		"median" : 77.5
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -2400,17 +2400,6 @@
 	{
 		"itemType" : "Rifle Riven Mod",
 		"compatibility" : "GORGON",
-		"rerolled" : true,
-		"avg" : 250.78,
-		"stddev" : 349.19,
-		"min" : 7,
-		"max" : 2000,
-		"pop" : 0.1404,
-		"median" : 140
-	},
-	{
-		"itemType" : "Rifle Riven Mod",
-		"compatibility" : "GORGON",
 		"rerolled" : false,
 		"avg" : 86.51,
 		"stddev" : 140.3,
@@ -2421,14 +2410,14 @@
 	},
 	{
 		"itemType" : "Rifle Riven Mod",
-		"compatibility" : "GRAKATA",
-		"rerolled" : false,
-		"avg" : 186,
-		"stddev" : 479.17,
+		"compatibility" : "GORGON",
+		"rerolled" : true,
+		"avg" : 250.78,
+		"stddev" : 349.19,
 		"min" : 7,
-		"max" : 3000,
-		"pop" : 0.1651,
-		"median" : 70
+		"max" : 2000,
+		"pop" : 0.1404,
+		"median" : 140
 	},
 	{
 		"itemType" : "Rifle Riven Mod",
@@ -2442,15 +2431,15 @@
 		"median" : 130
 	},
 	{
-		"itemType" : "Melee Riven Mod",
-		"compatibility" : "GRAM",
+		"itemType" : "Rifle Riven Mod",
+		"compatibility" : "GRAKATA",
 		"rerolled" : false,
-		"avg" : 524.15,
-		"stddev" : 243.74,
-		"min" : 50,
-		"max" : 2000,
-		"pop" : 0.388,
-		"median" : 500
+		"avg" : 186,
+		"stddev" : 479.17,
+		"min" : 7,
+		"max" : 3000,
+		"pop" : 0.1651,
+		"median" : 70
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -2464,15 +2453,15 @@
 		"median" : 700
 	},
 	{
-		"itemType" : "Rifle Riven Mod",
-		"compatibility" : "GRINLOK",
-		"rerolled" : true,
-		"avg" : 263.13,
-		"stddev" : 302.28,
-		"min" : 15,
-		"max" : 1900,
-		"pop" : 0.1926,
-		"median" : 165
+		"itemType" : "Melee Riven Mod",
+		"compatibility" : "GRAM",
+		"rerolled" : false,
+		"avg" : 524.15,
+		"stddev" : 243.74,
+		"min" : 50,
+		"max" : 2000,
+		"pop" : 0.388,
+		"median" : 500
 	},
 	{
 		"itemType" : "Rifle Riven Mod",
@@ -2484,6 +2473,17 @@
 		"max" : 680,
 		"pop" : 0.2147,
 		"median" : 100
+	},
+	{
+		"itemType" : "Rifle Riven Mod",
+		"compatibility" : "GRINLOK",
+		"rerolled" : true,
+		"avg" : 263.13,
+		"stddev" : 302.28,
+		"min" : 15,
+		"max" : 1900,
+		"pop" : 0.1926,
+		"median" : 165
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -2510,17 +2510,6 @@
 	{
 		"itemType" : "Melee Riven Mod",
 		"compatibility" : "GUNSEN",
-		"rerolled" : false,
-		"avg" : 281.63,
-		"stddev" : 649.66,
-		"min" : 14,
-		"max" : 2000,
-		"pop" : 0.022,
-		"median" : 50
-	},
-	{
-		"itemType" : "Melee Riven Mod",
-		"compatibility" : "GUNSEN",
 		"rerolled" : true,
 		"avg" : 125,
 		"stddev" : 75,
@@ -2528,6 +2517,17 @@
 		"max" : 200,
 		"pop" : 0.0055,
 		"median" : NaN
+	},
+	{
+		"itemType" : "Melee Riven Mod",
+		"compatibility" : "GUNSEN",
+		"rerolled" : false,
+		"avg" : 281.63,
+		"stddev" : 649.66,
+		"min" : 14,
+		"max" : 2000,
+		"pop" : 0.022,
+		"median" : 50
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -2543,17 +2543,6 @@
 	{
 		"itemType" : "Rifle Riven Mod",
 		"compatibility" : "HARPAK",
-		"rerolled" : false,
-		"avg" : 90.18,
-		"stddev" : 231.84,
-		"min" : 5,
-		"max" : 1000,
-		"pop" : 0.0468,
-		"median" : 20
-	},
-	{
-		"itemType" : "Rifle Riven Mod",
-		"compatibility" : "HARPAK",
 		"rerolled" : true,
 		"avg" : 627.71,
 		"stddev" : 1229.43,
@@ -2563,15 +2552,15 @@
 		"median" : 125
 	},
 	{
-		"itemType" : "Melee Riven Mod",
-		"compatibility" : "HATE",
-		"rerolled" : true,
-		"avg" : 107.38,
-		"stddev" : 87.2,
+		"itemType" : "Rifle Riven Mod",
+		"compatibility" : "HARPAK",
+		"rerolled" : false,
+		"avg" : 90.18,
+		"stddev" : 231.84,
 		"min" : 5,
-		"max" : 321,
-		"pop" : 0.0358,
-		"median" : 80
+		"max" : 1000,
+		"pop" : 0.0468,
+		"median" : 20
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -2583,6 +2572,17 @@
 		"max" : 350,
 		"pop" : 0.0358,
 		"median" : 50
+	},
+	{
+		"itemType" : "Melee Riven Mod",
+		"compatibility" : "HATE",
+		"rerolled" : true,
+		"avg" : 107.38,
+		"stddev" : 87.2,
+		"min" : 5,
+		"max" : 321,
+		"pop" : 0.0358,
+		"median" : 80
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -2620,17 +2620,6 @@
 	{
 		"itemType" : "Shotgun Riven Mod",
 		"compatibility" : "HEK",
-		"rerolled" : false,
-		"avg" : 111.47,
-		"stddev" : 297.84,
-		"min" : 10,
-		"max" : 2100,
-		"pop" : 0.1569,
-		"median" : 50
-	},
-	{
-		"itemType" : "Shotgun Riven Mod",
-		"compatibility" : "HEK",
 		"rerolled" : true,
 		"avg" : 340.44,
 		"stddev" : 729.12,
@@ -2640,15 +2629,15 @@
 		"median" : 110
 	},
 	{
-		"itemType" : "Melee Riven Mod",
-		"compatibility" : "HELIOCOR",
+		"itemType" : "Shotgun Riven Mod",
+		"compatibility" : "HEK",
 		"rerolled" : false,
-		"avg" : 42.92,
-		"stddev" : 36.37,
+		"avg" : 111.47,
+		"stddev" : 297.84,
 		"min" : 10,
-		"max" : 150,
-		"pop" : 0.033,
-		"median" : 42.5
+		"max" : 2100,
+		"pop" : 0.1569,
+		"median" : 50
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -2660,6 +2649,17 @@
 		"max" : 300,
 		"pop" : 0.0138,
 		"median" : 35
+	},
+	{
+		"itemType" : "Melee Riven Mod",
+		"compatibility" : "HELIOCOR",
+		"rerolled" : false,
+		"avg" : 42.92,
+		"stddev" : 36.37,
+		"min" : 10,
+		"max" : 150,
+		"pop" : 0.033,
+		"median" : 42.5
 	},
 	{
 		"itemType" : "Rifle Riven Mod",
@@ -2686,17 +2686,6 @@
 	{
 		"itemType" : "Pistol Riven Mod",
 		"compatibility" : "HIKOU",
-		"rerolled" : true,
-		"avg" : 142.92,
-		"stddev" : 150.91,
-		"min" : 10,
-		"max" : 450,
-		"pop" : 0.033,
-		"median" : 100
-	},
-	{
-		"itemType" : "Pistol Riven Mod",
-		"compatibility" : "HIKOU",
 		"rerolled" : false,
 		"avg" : 79.56,
 		"stddev" : 191.55,
@@ -2706,15 +2695,15 @@
 		"median" : 35
 	},
 	{
-		"itemType" : "Rifle Riven Mod",
-		"compatibility" : "HIND",
-		"rerolled" : false,
-		"avg" : 44.74,
-		"stddev" : 104.31,
-		"min" : 5,
-		"max" : 500,
-		"pop" : 0.0743,
-		"median" : 15
+		"itemType" : "Pistol Riven Mod",
+		"compatibility" : "HIKOU",
+		"rerolled" : true,
+		"avg" : 142.92,
+		"stddev" : 150.91,
+		"min" : 10,
+		"max" : 450,
+		"pop" : 0.033,
+		"median" : 100
 	},
 	{
 		"itemType" : "Rifle Riven Mod",
@@ -2726,6 +2715,17 @@
 		"max" : 1200,
 		"pop" : 0.0138,
 		"median" : 150
+	},
+	{
+		"itemType" : "Rifle Riven Mod",
+		"compatibility" : "HIND",
+		"rerolled" : false,
+		"avg" : 44.74,
+		"stddev" : 104.31,
+		"min" : 5,
+		"max" : 500,
+		"pop" : 0.0743,
+		"median" : 15
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -2862,17 +2862,6 @@
 	{
 		"itemType" : "Melee Riven Mod",
 		"compatibility" : "JAW SWORD",
-		"rerolled" : false,
-		"avg" : 88.33,
-		"stddev" : 141.49,
-		"min" : 8,
-		"max" : 1075,
-		"pop" : 0.1596,
-		"median" : 52.5
-	},
-	{
-		"itemType" : "Melee Riven Mod",
-		"compatibility" : "JAW SWORD",
 		"rerolled" : true,
 		"avg" : 179.61,
 		"stddev" : 206.5,
@@ -2883,14 +2872,14 @@
 	},
 	{
 		"itemType" : "Melee Riven Mod",
-		"compatibility" : "KAMA",
-		"rerolled" : true,
-		"avg" : 10,
-		"stddev" : 0,
-		"min" : 10,
-		"max" : 10,
-		"pop" : 0.0028,
-		"median" : 10
+		"compatibility" : "JAW SWORD",
+		"rerolled" : false,
+		"avg" : 88.33,
+		"stddev" : 141.49,
+		"min" : 8,
+		"max" : 1075,
+		"pop" : 0.1596,
+		"median" : 52.5
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -2904,15 +2893,15 @@
 		"median" : 30
 	},
 	{
-		"itemType" : "Rifle Riven Mod",
-		"compatibility" : "KARAK",
+		"itemType" : "Melee Riven Mod",
+		"compatibility" : "KAMA",
 		"rerolled" : true,
-		"avg" : 146.35,
-		"stddev" : 181.87,
+		"avg" : 10,
+		"stddev" : 0,
 		"min" : 10,
-		"max" : 800,
-		"pop" : 0.0633,
-		"median" : 100
+		"max" : 10,
+		"pop" : 0.0028,
+		"median" : 10
 	},
 	{
 		"itemType" : "Rifle Riven Mod",
@@ -2926,15 +2915,15 @@
 		"median" : 50
 	},
 	{
-		"itemType" : "Melee Riven Mod",
-		"compatibility" : "KARYST",
+		"itemType" : "Rifle Riven Mod",
+		"compatibility" : "KARAK",
 		"rerolled" : true,
-		"avg" : 10,
-		"stddev" : 0,
+		"avg" : 146.35,
+		"stddev" : 181.87,
 		"min" : 10,
-		"max" : 10,
-		"pop" : 0.0028,
-		"median" : 10
+		"max" : 800,
+		"pop" : 0.0633,
+		"median" : 100
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -2946,6 +2935,17 @@
 		"max" : 1800,
 		"pop" : 0.0358,
 		"median" : 30
+	},
+	{
+		"itemType" : "Melee Riven Mod",
+		"compatibility" : "KARYST",
+		"rerolled" : true,
+		"avg" : 10,
+		"stddev" : 0,
+		"min" : 10,
+		"max" : 10,
+		"pop" : 0.0028,
+		"median" : 10
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -2972,17 +2972,6 @@
 	{
 		"itemType" : "Pistol Riven Mod",
 		"compatibility" : "KNELL",
-		"rerolled" : false,
-		"avg" : 74.59,
-		"stddev" : 183.66,
-		"min" : 10,
-		"max" : 1000,
-		"pop" : 0.0743,
-		"median" : 30
-	},
-	{
-		"itemType" : "Pistol Riven Mod",
-		"compatibility" : "KNELL",
 		"rerolled" : true,
 		"avg" : 181.44,
 		"stddev" : 259.45,
@@ -2992,15 +2981,15 @@
 		"median" : 60
 	},
 	{
-		"itemType" : "Melee Riven Mod",
-		"compatibility" : "KOGAKE",
+		"itemType" : "Pistol Riven Mod",
+		"compatibility" : "KNELL",
 		"rerolled" : false,
-		"avg" : 51.17,
-		"stddev" : 50.4,
+		"avg" : 74.59,
+		"stddev" : 183.66,
 		"min" : 10,
-		"max" : 240,
-		"pop" : 0.0661,
-		"median" : 40
+		"max" : 1000,
+		"pop" : 0.0743,
+		"median" : 30
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -3014,15 +3003,15 @@
 		"median" : 85
 	},
 	{
-		"itemType" : "Shotgun Riven Mod",
-		"compatibility" : "KOHM",
-		"rerolled" : true,
-		"avg" : 539.31,
-		"stddev" : 701.86,
+		"itemType" : "Melee Riven Mod",
+		"compatibility" : "KOGAKE",
+		"rerolled" : false,
+		"avg" : 51.17,
+		"stddev" : 50.4,
 		"min" : 10,
-		"max" : 6000,
-		"pop" : 0.7486,
-		"median" : 350
+		"max" : 240,
+		"pop" : 0.0661,
+		"median" : 40
 	},
 	{
 		"itemType" : "Shotgun Riven Mod",
@@ -3036,15 +3025,15 @@
 		"median" : 220
 	},
 	{
-		"itemType" : "Pistol Riven Mod",
-		"compatibility" : "KOHMAK",
-		"rerolled" : false,
-		"avg" : 93.04,
-		"stddev" : 196.76,
+		"itemType" : "Shotgun Riven Mod",
+		"compatibility" : "KOHM",
+		"rerolled" : true,
+		"avg" : 539.31,
+		"stddev" : 701.86,
 		"min" : 10,
-		"max" : 1000,
-		"pop" : 0.0688,
-		"median" : 20
+		"max" : 6000,
+		"pop" : 0.7486,
+		"median" : 350
 	},
 	{
 		"itemType" : "Pistol Riven Mod",
@@ -3059,14 +3048,14 @@
 	},
 	{
 		"itemType" : "Pistol Riven Mod",
-		"compatibility" : "KRAKEN",
-		"rerolled" : true,
-		"avg" : 26,
-		"stddev" : 24.06,
-		"min" : 8,
-		"max" : 60,
-		"pop" : 0.0083,
-		"median" : 10
+		"compatibility" : "KOHMAK",
+		"rerolled" : false,
+		"avg" : 93.04,
+		"stddev" : 196.76,
+		"min" : 10,
+		"max" : 1000,
+		"pop" : 0.0688,
+		"median" : 20
 	},
 	{
 		"itemType" : "Pistol Riven Mod",
@@ -3080,15 +3069,15 @@
 		"median" : 190
 	},
 	{
-		"itemType" : "Melee Riven Mod",
-		"compatibility" : "KRESKA",
+		"itemType" : "Pistol Riven Mod",
+		"compatibility" : "KRAKEN",
 		"rerolled" : true,
-		"avg" : 760,
-		"stddev" : 740,
-		"min" : 20,
-		"max" : 1500,
-		"pop" : 0.0055,
-		"median" : NaN
+		"avg" : 26,
+		"stddev" : 24.06,
+		"min" : 8,
+		"max" : 60,
+		"pop" : 0.0083,
+		"median" : 10
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -3103,14 +3092,14 @@
 	},
 	{
 		"itemType" : "Melee Riven Mod",
-		"compatibility" : "KROHKUR",
+		"compatibility" : "KRESKA",
 		"rerolled" : true,
-		"avg" : 526.33,
-		"stddev" : 571.47,
-		"min" : 15,
-		"max" : 1324,
-		"pop" : 0.0083,
-		"median" : 240
+		"avg" : 760,
+		"stddev" : 740,
+		"min" : 20,
+		"max" : 1500,
+		"pop" : 0.0055,
+		"median" : NaN
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -3125,14 +3114,14 @@
 	},
 	{
 		"itemType" : "Melee Riven Mod",
-		"compatibility" : "KRONEN",
-		"rerolled" : false,
-		"avg" : 81.76,
-		"stddev" : 76.82,
+		"compatibility" : "KROHKUR",
+		"rerolled" : true,
+		"avg" : 526.33,
+		"stddev" : 571.47,
 		"min" : 15,
-		"max" : 500,
-		"pop" : 0.1349,
-		"median" : 50
+		"max" : 1324,
+		"pop" : 0.0083,
+		"median" : 240
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -3144,6 +3133,17 @@
 		"max" : 1100,
 		"pop" : 0.1349,
 		"median" : 148
+	},
+	{
+		"itemType" : "Melee Riven Mod",
+		"compatibility" : "KRONEN",
+		"rerolled" : false,
+		"avg" : 81.76,
+		"stddev" : 76.82,
+		"min" : 15,
+		"max" : 500,
+		"pop" : 0.1349,
+		"median" : 50
 	},
 	{
 		"itemType" : "Zaw Riven Mod",
@@ -3170,17 +3170,6 @@
 	{
 		"itemType" : "Pistol Riven Mod",
 		"compatibility" : "KULSTAR",
-		"rerolled" : false,
-		"avg" : 106.43,
-		"stddev" : 212.28,
-		"min" : 5,
-		"max" : 1000,
-		"pop" : 0.0578,
-		"median" : 30
-	},
-	{
-		"itemType" : "Pistol Riven Mod",
-		"compatibility" : "KULSTAR",
 		"rerolled" : true,
 		"avg" : 43.57,
 		"stddev" : 24.89,
@@ -3188,6 +3177,17 @@
 		"max" : 100,
 		"pop" : 0.0193,
 		"median" : 40
+	},
+	{
+		"itemType" : "Pistol Riven Mod",
+		"compatibility" : "KULSTAR",
+		"rerolled" : false,
+		"avg" : 106.43,
+		"stddev" : 212.28,
+		"min" : 5,
+		"max" : 1000,
+		"pop" : 0.0578,
+		"median" : 30
 	},
 	{
 		"itemType" : "Pistol Riven Mod",
@@ -3214,17 +3214,6 @@
 	{
 		"itemType" : "Melee Riven Mod",
 		"compatibility" : "LACERA",
-		"rerolled" : true,
-		"avg" : 251.75,
-		"stddev" : 296.91,
-		"min" : 20,
-		"max" : 1000,
-		"pop" : 0.055,
-		"median" : 110
-	},
-	{
-		"itemType" : "Melee Riven Mod",
-		"compatibility" : "LACERA",
 		"rerolled" : false,
 		"avg" : 324,
 		"stddev" : 912.71,
@@ -3234,15 +3223,15 @@
 		"median" : 50
 	},
 	{
-		"itemType" : "Rifle Riven Mod",
-		"compatibility" : "LANKA",
-		"rerolled" : false,
-		"avg" : 451.26,
-		"stddev" : 313.2,
-		"min" : 6,
-		"max" : 3400,
-		"pop" : 0.333,
-		"median" : 450
+		"itemType" : "Melee Riven Mod",
+		"compatibility" : "LACERA",
+		"rerolled" : true,
+		"avg" : 251.75,
+		"stddev" : 296.91,
+		"min" : 20,
+		"max" : 1000,
+		"pop" : 0.055,
+		"median" : 110
 	},
 	{
 		"itemType" : "Rifle Riven Mod",
@@ -3254,6 +3243,17 @@
 		"max" : 15000,
 		"pop" : 1.0898,
 		"median" : 525
+	},
+	{
+		"itemType" : "Rifle Riven Mod",
+		"compatibility" : "LANKA",
+		"rerolled" : false,
+		"avg" : 451.26,
+		"stddev" : 313.2,
+		"min" : 6,
+		"max" : 3400,
+		"pop" : 0.333,
+		"median" : 450
 	},
 	{
 		"itemType" : "Rifle Riven Mod",
@@ -3324,17 +3324,6 @@
 	{
 		"itemType" : "Melee Riven Mod",
 		"compatibility" : "LECTA",
-		"rerolled" : true,
-		"avg" : 139.92,
-		"stddev" : 235.07,
-		"min" : 29,
-		"max" : 950,
-		"pop" : 0.0358,
-		"median" : 80
-	},
-	{
-		"itemType" : "Melee Riven Mod",
-		"compatibility" : "LECTA",
 		"rerolled" : false,
 		"avg" : 80.5,
 		"stddev" : 94.82,
@@ -3342,6 +3331,17 @@
 		"max" : 400,
 		"pop" : 0.0661,
 		"median" : 55
+	},
+	{
+		"itemType" : "Melee Riven Mod",
+		"compatibility" : "LECTA",
+		"rerolled" : true,
+		"avg" : 139.92,
+		"stddev" : 235.07,
+		"min" : 29,
+		"max" : 950,
+		"pop" : 0.0358,
+		"median" : 80
 	},
 	{
 		"itemType" : "Rifle Riven Mod",
@@ -3500,17 +3500,6 @@
 	{
 		"itemType" : "Zaw Riven Mod",
 		"compatibility" : "MEWAN",
-		"rerolled" : true,
-		"avg" : 177.59,
-		"stddev" : 265.43,
-		"min" : 15,
-		"max" : 1200,
-		"pop" : 0.0798,
-		"median" : 55
-	},
-	{
-		"itemType" : "Zaw Riven Mod",
-		"compatibility" : "MEWAN",
 		"rerolled" : false,
 		"avg" : 40.75,
 		"stddev" : 26.37,
@@ -3518,6 +3507,17 @@
 		"max" : 150,
 		"pop" : 0.2009,
 		"median" : 35
+	},
+	{
+		"itemType" : "Zaw Riven Mod",
+		"compatibility" : "MEWAN",
+		"rerolled" : true,
+		"avg" : 177.59,
+		"stddev" : 265.43,
+		"min" : 15,
+		"max" : 1200,
+		"pop" : 0.0798,
+		"median" : 55
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -3566,17 +3566,6 @@
 	{
 		"itemType" : "Rifle Riven Mod",
 		"compatibility" : "MITER",
-		"rerolled" : false,
-		"avg" : 100.61,
-		"stddev" : 339.73,
-		"min" : 5,
-		"max" : 2100,
-		"pop" : 0.0991,
-		"median" : 35
-	},
-	{
-		"itemType" : "Rifle Riven Mod",
-		"compatibility" : "MITER",
 		"rerolled" : true,
 		"avg" : 122.78,
 		"stddev" : 104.06,
@@ -3587,14 +3576,14 @@
 	},
 	{
 		"itemType" : "Rifle Riven Mod",
-		"compatibility" : "MUTALIST CERNOS",
-		"rerolled" : true,
-		"avg" : 112.67,
-		"stddev" : 98.48,
-		"min" : 30,
-		"max" : 380,
-		"pop" : 0.0248,
-		"median" : 90
+		"compatibility" : "MITER",
+		"rerolled" : false,
+		"avg" : 100.61,
+		"stddev" : 339.73,
+		"min" : 5,
+		"max" : 2100,
+		"pop" : 0.0991,
+		"median" : 35
 	},
 	{
 		"itemType" : "Rifle Riven Mod",
@@ -3606,6 +3595,17 @@
 		"max" : 1600,
 		"pop" : 0.0743,
 		"median" : 40
+	},
+	{
+		"itemType" : "Rifle Riven Mod",
+		"compatibility" : "MUTALIST CERNOS",
+		"rerolled" : true,
+		"avg" : 112.67,
+		"stddev" : 98.48,
+		"min" : 30,
+		"max" : 380,
+		"pop" : 0.0248,
+		"median" : 90
 	},
 	{
 		"itemType" : "Rifle Riven Mod",
@@ -3632,17 +3632,6 @@
 	{
 		"itemType" : "Rifle Riven Mod",
 		"compatibility" : "NAGANTAKA",
-		"rerolled" : true,
-		"avg" : 143.17,
-		"stddev" : 98.75,
-		"min" : 20,
-		"max" : 450,
-		"pop" : 0.0661,
-		"median" : 135
-	},
-	{
-		"itemType" : "Rifle Riven Mod",
-		"compatibility" : "NAGANTAKA",
 		"rerolled" : false,
 		"avg" : 67.79,
 		"stddev" : 53.13,
@@ -3650,6 +3639,17 @@
 		"max" : 300,
 		"pop" : 0.1431,
 		"median" : 60
+	},
+	{
+		"itemType" : "Rifle Riven Mod",
+		"compatibility" : "NAGANTAKA",
+		"rerolled" : true,
+		"avg" : 143.17,
+		"stddev" : 98.75,
+		"min" : 20,
+		"max" : 450,
+		"pop" : 0.0661,
+		"median" : 135
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -3698,17 +3698,6 @@
 	{
 		"itemType" : "Melee Riven Mod",
 		"compatibility" : "NIKANA",
-		"rerolled" : true,
-		"avg" : 76.87,
-		"stddev" : 42.84,
-		"min" : 20,
-		"max" : 175,
-		"pop" : 0.0853,
-		"median" : 60
-	},
-	{
-		"itemType" : "Melee Riven Mod",
-		"compatibility" : "NIKANA",
 		"rerolled" : false,
 		"avg" : 67.64,
 		"stddev" : 45.62,
@@ -3716,6 +3705,17 @@
 		"max" : 200,
 		"pop" : 0.1238,
 		"median" : 50
+	},
+	{
+		"itemType" : "Melee Riven Mod",
+		"compatibility" : "NIKANA",
+		"rerolled" : true,
+		"avg" : 76.87,
+		"stddev" : 42.84,
+		"min" : 20,
+		"max" : 175,
+		"pop" : 0.0853,
+		"median" : 60
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -3764,17 +3764,6 @@
 	{
 		"itemType" : "Melee Riven Mod",
 		"compatibility" : "OBEX",
-		"rerolled" : false,
-		"avg" : 544.09,
-		"stddev" : 1255.67,
-		"min" : 15,
-		"max" : 4300,
-		"pop" : 0.0303,
-		"median" : 20
-	},
-	{
-		"itemType" : "Melee Riven Mod",
-		"compatibility" : "OBEX",
 		"rerolled" : true,
 		"avg" : 51.67,
 		"stddev" : 55.43,
@@ -3784,15 +3773,15 @@
 		"median" : 15
 	},
 	{
-		"itemType" : "Pistol Riven Mod",
-		"compatibility" : "OCUCOR",
+		"itemType" : "Melee Riven Mod",
+		"compatibility" : "OBEX",
 		"rerolled" : false,
-		"avg" : 92.11,
-		"stddev" : 195.2,
-		"min" : 20,
-		"max" : 1200,
-		"pop" : 0.1046,
-		"median" : 50
+		"avg" : 544.09,
+		"stddev" : 1255.67,
+		"min" : 15,
+		"max" : 4300,
+		"pop" : 0.0303,
+		"median" : 20
 	},
 	{
 		"itemType" : "Pistol Riven Mod",
@@ -3806,15 +3795,15 @@
 		"median" : 155
 	},
 	{
-		"itemType" : "Rifle Riven Mod",
-		"compatibility" : "OGRIS",
+		"itemType" : "Pistol Riven Mod",
+		"compatibility" : "OCUCOR",
 		"rerolled" : false,
-		"avg" : 185.86,
-		"stddev" : 680.07,
-		"min" : 2,
-		"max" : 3700,
-		"pop" : 0.0771,
-		"median" : 30
+		"avg" : 92.11,
+		"stddev" : 195.2,
+		"min" : 20,
+		"max" : 1200,
+		"pop" : 0.1046,
+		"median" : 50
 	},
 	{
 		"itemType" : "Rifle Riven Mod",
@@ -3826,6 +3815,17 @@
 		"max" : 4000,
 		"pop" : 0.0413,
 		"median" : 60
+	},
+	{
+		"itemType" : "Rifle Riven Mod",
+		"compatibility" : "OGRIS",
+		"rerolled" : false,
+		"avg" : 185.86,
+		"stddev" : 680.07,
+		"min" : 2,
+		"max" : 3700,
+		"pop" : 0.0771,
+		"median" : 30
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -3874,17 +3874,6 @@
 	{
 		"itemType" : "Zaw Riven Mod",
 		"compatibility" : "OOLTHA",
-		"rerolled" : false,
-		"avg" : 428.74,
-		"stddev" : 936.93,
-		"min" : 10,
-		"max" : 4000,
-		"pop" : 0.0743,
-		"median" : 30
-	},
-	{
-		"itemType" : "Zaw Riven Mod",
-		"compatibility" : "OOLTHA",
 		"rerolled" : true,
 		"avg" : 264.58,
 		"stddev" : 609.51,
@@ -3894,15 +3883,15 @@
 		"median" : 86
 	},
 	{
-		"itemType" : "Rifle Riven Mod",
-		"compatibility" : "OPTICOR",
+		"itemType" : "Zaw Riven Mod",
+		"compatibility" : "OOLTHA",
 		"rerolled" : false,
-		"avg" : 380.78,
-		"stddev" : 271.28,
-		"min" : 2,
-		"max" : 3000,
-		"pop" : 0.388,
-		"median" : 350
+		"avg" : 428.74,
+		"stddev" : 936.93,
+		"min" : 10,
+		"max" : 4000,
+		"pop" : 0.0743,
+		"median" : 30
 	},
 	{
 		"itemType" : "Rifle Riven Mod",
@@ -3916,15 +3905,15 @@
 		"median" : 537.5
 	},
 	{
-		"itemType" : "Melee Riven Mod",
-		"compatibility" : "ORTHOS",
+		"itemType" : "Rifle Riven Mod",
+		"compatibility" : "OPTICOR",
 		"rerolled" : false,
-		"avg" : 72.15,
-		"stddev" : 51.35,
-		"min" : 15,
-		"max" : 200,
-		"pop" : 0.0936,
-		"median" : 50
+		"avg" : 380.78,
+		"stddev" : 271.28,
+		"min" : 2,
+		"max" : 3000,
+		"pop" : 0.388,
+		"median" : 350
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -3936,6 +3925,17 @@
 		"max" : 220,
 		"pop" : 0.0468,
 		"median" : 60
+	},
+	{
+		"itemType" : "Melee Riven Mod",
+		"compatibility" : "ORTHOS",
+		"rerolled" : false,
+		"avg" : 72.15,
+		"stddev" : 51.35,
+		"min" : 15,
+		"max" : 200,
+		"pop" : 0.0936,
+		"median" : 50
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -3995,17 +3995,6 @@
 	{
 		"itemType" : "Rifle Riven Mod",
 		"compatibility" : "PANTHERA",
-		"rerolled" : true,
-		"avg" : 464.85,
-		"stddev" : 1114.84,
-		"min" : 20,
-		"max" : 4300,
-		"pop" : 0.0358,
-		"median" : 100
-	},
-	{
-		"itemType" : "Rifle Riven Mod",
-		"compatibility" : "PANTHERA",
 		"rerolled" : false,
 		"avg" : 82.15,
 		"stddev" : 148.86,
@@ -4013,6 +4002,17 @@
 		"max" : 700,
 		"pop" : 0.1073,
 		"median" : 40
+	},
+	{
+		"itemType" : "Rifle Riven Mod",
+		"compatibility" : "PANTHERA",
+		"rerolled" : true,
+		"avg" : 464.85,
+		"stddev" : 1114.84,
+		"min" : 20,
+		"max" : 4300,
+		"pop" : 0.0358,
+		"median" : 100
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -4039,17 +4039,6 @@
 	{
 		"itemType" : "Rifle Riven Mod",
 		"compatibility" : "PARACYST",
-		"rerolled" : true,
-		"avg" : 22.33,
-		"stddev" : 19.6,
-		"min" : 7,
-		"max" : 50,
-		"pop" : 0.0083,
-		"median" : 10
-	},
-	{
-		"itemType" : "Rifle Riven Mod",
-		"compatibility" : "PARACYST",
 		"rerolled" : false,
 		"avg" : 203.71,
 		"stddev" : 531.65,
@@ -4057,6 +4046,17 @@
 		"max" : 2100,
 		"pop" : 0.0385,
 		"median" : 27.5
+	},
+	{
+		"itemType" : "Rifle Riven Mod",
+		"compatibility" : "PARACYST",
+		"rerolled" : true,
+		"avg" : 22.33,
+		"stddev" : 19.6,
+		"min" : 7,
+		"max" : 50,
+		"pop" : 0.0083,
+		"median" : 10
 	},
 	{
 		"itemType" : "Rifle Riven Mod",
@@ -4105,17 +4105,6 @@
 	{
 		"itemType" : "Shotgun Riven Mod",
 		"compatibility" : "PHAGE",
-		"rerolled" : true,
-		"avg" : 167.31,
-		"stddev" : 221.13,
-		"min" : 8,
-		"max" : 1200,
-		"pop" : 0.0798,
-		"median" : 100
-	},
-	{
-		"itemType" : "Shotgun Riven Mod",
-		"compatibility" : "PHAGE",
 		"rerolled" : false,
 		"avg" : 128.45,
 		"stddev" : 244.18,
@@ -4123,6 +4112,17 @@
 		"max" : 1300,
 		"pop" : 0.0908,
 		"median" : 50
+	},
+	{
+		"itemType" : "Shotgun Riven Mod",
+		"compatibility" : "PHAGE",
+		"rerolled" : true,
+		"avg" : 167.31,
+		"stddev" : 221.13,
+		"min" : 8,
+		"max" : 1200,
+		"pop" : 0.0798,
+		"median" : 100
 	},
 	{
 		"itemType" : "Shotgun Riven Mod",
@@ -4171,17 +4171,6 @@
 	{
 		"itemType" : "Zaw Riven Mod",
 		"compatibility" : "PLAGUE KRIPATH",
-		"rerolled" : true,
-		"avg" : 537.27,
-		"stddev" : 662.98,
-		"min" : 10,
-		"max" : 6000,
-		"pop" : 0.8944,
-		"median" : 300
-	},
-	{
-		"itemType" : "Zaw Riven Mod",
-		"compatibility" : "PLAGUE KRIPATH",
 		"rerolled" : false,
 		"avg" : 300.66,
 		"stddev" : 198.6,
@@ -4191,15 +4180,15 @@
 		"median" : 300
 	},
 	{
-		"itemType" : "Melee Riven Mod",
-		"compatibility" : "PLASMA SWORD",
-		"rerolled" : false,
-		"avg" : 153.63,
-		"stddev" : 241.55,
+		"itemType" : "Zaw Riven Mod",
+		"compatibility" : "PLAGUE KRIPATH",
+		"rerolled" : true,
+		"avg" : 537.27,
+		"stddev" : 662.98,
 		"min" : 10,
-		"max" : 700,
-		"pop" : 0.022,
-		"median" : 44.5
+		"max" : 6000,
+		"pop" : 0.8944,
+		"median" : 300
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -4213,15 +4202,15 @@
 		"median" : 100
 	},
 	{
-		"itemType" : "Pistol Riven Mod",
-		"compatibility" : "PLINX",
+		"itemType" : "Melee Riven Mod",
+		"compatibility" : "PLASMA SWORD",
 		"rerolled" : false,
-		"avg" : 83.06,
-		"stddev" : 157.59,
-		"min" : 5,
-		"max" : 1100,
-		"pop" : 0.1459,
-		"median" : 50
+		"avg" : 153.63,
+		"stddev" : 241.55,
+		"min" : 10,
+		"max" : 700,
+		"pop" : 0.022,
+		"median" : 44.5
 	},
 	{
 		"itemType" : "Pistol Riven Mod",
@@ -4236,14 +4225,14 @@
 	},
 	{
 		"itemType" : "Pistol Riven Mod",
-		"compatibility" : "POX",
+		"compatibility" : "PLINX",
 		"rerolled" : false,
-		"avg" : 82.26,
-		"stddev" : 215.11,
+		"avg" : 83.06,
+		"stddev" : 157.59,
 		"min" : 5,
-		"max" : 1300,
-		"pop" : 0.0963,
-		"median" : 30
+		"max" : 1100,
+		"pop" : 0.1459,
+		"median" : 50
 	},
 	{
 		"itemType" : "Pistol Riven Mod",
@@ -4257,15 +4246,15 @@
 		"median" : 35
 	},
 	{
-		"itemType" : "Melee Riven Mod",
-		"compatibility" : "PROVA",
+		"itemType" : "Pistol Riven Mod",
+		"compatibility" : "POX",
 		"rerolled" : false,
-		"avg" : 20,
-		"stddev" : 17.5,
+		"avg" : 82.26,
+		"stddev" : 215.11,
 		"min" : 5,
-		"max" : 50,
-		"pop" : 0.022,
-		"median" : 12.5
+		"max" : 1300,
+		"pop" : 0.0963,
+		"median" : 30
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -4280,14 +4269,14 @@
 	},
 	{
 		"itemType" : "Melee Riven Mod",
-		"compatibility" : "PUPACYST",
+		"compatibility" : "PROVA",
 		"rerolled" : false,
-		"avg" : 63.86,
-		"stddev" : 97.43,
-		"min" : 7,
-		"max" : 300,
-		"pop" : 0.0193,
-		"median" : 30
+		"avg" : 20,
+		"stddev" : 17.5,
+		"min" : 5,
+		"max" : 50,
+		"pop" : 0.022,
+		"median" : 12.5
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -4299,6 +4288,17 @@
 		"max" : 550,
 		"pop" : 0.0028,
 		"median" : 550
+	},
+	{
+		"itemType" : "Melee Riven Mod",
+		"compatibility" : "PUPACYST",
+		"rerolled" : false,
+		"avg" : 63.86,
+		"stddev" : 97.43,
+		"min" : 7,
+		"max" : 300,
+		"pop" : 0.0193,
+		"median" : 30
 	},
 	{
 		"itemType" : "Pistol Riven Mod",
@@ -4325,17 +4325,6 @@
 	{
 		"itemType" : "Rifle Riven Mod",
 		"compatibility" : "QUANTA",
-		"rerolled" : true,
-		"avg" : 167.35,
-		"stddev" : 182.93,
-		"min" : 10,
-		"max" : 800,
-		"pop" : 0.0468,
-		"median" : 100
-	},
-	{
-		"itemType" : "Rifle Riven Mod",
-		"compatibility" : "QUANTA",
 		"rerolled" : false,
 		"avg" : 94.44,
 		"stddev" : 123.28,
@@ -4343,6 +4332,17 @@
 		"max" : 500,
 		"pop" : 0.0743,
 		"median" : 50
+	},
+	{
+		"itemType" : "Rifle Riven Mod",
+		"compatibility" : "QUANTA",
+		"rerolled" : true,
+		"avg" : 167.35,
+		"stddev" : 182.93,
+		"min" : 10,
+		"max" : 800,
+		"pop" : 0.0468,
+		"median" : 100
 	},
 	{
 		"itemType" : "Rifle Riven Mod",
@@ -4413,17 +4413,6 @@
 	{
 		"itemType" : "Melee Riven Mod",
 		"compatibility" : "REAPER PRIME",
-		"rerolled" : false,
-		"avg" : 260.75,
-		"stddev" : 687.5,
-		"min" : 5,
-		"max" : 3100,
-		"pop" : 0.055,
-		"median" : 47.5
-	},
-	{
-		"itemType" : "Melee Riven Mod",
-		"compatibility" : "REAPER PRIME",
 		"rerolled" : true,
 		"avg" : 92.86,
 		"stddev" : 60.88,
@@ -4431,6 +4420,17 @@
 		"max" : 200,
 		"pop" : 0.0193,
 		"median" : 100
+	},
+	{
+		"itemType" : "Melee Riven Mod",
+		"compatibility" : "REAPER PRIME",
+		"rerolled" : false,
+		"avg" : 260.75,
+		"stddev" : 687.5,
+		"min" : 5,
+		"max" : 3100,
+		"pop" : 0.055,
+		"median" : 47.5
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -4479,17 +4479,6 @@
 	{
 		"itemType" : "Rifle Riven Mod",
 		"compatibility" : "RUBICO",
-		"rerolled" : true,
-		"avg" : 1793.56,
-		"stddev" : 1406.24,
-		"min" : 5,
-		"max" : 20000,
-		"pop" : 1.8081,
-		"median" : 1500
-	},
-	{
-		"itemType" : "Rifle Riven Mod",
-		"compatibility" : "RUBICO",
 		"rerolled" : false,
 		"avg" : 1161.9,
 		"stddev" : 354.79,
@@ -4497,6 +4486,17 @@
 		"max" : 2750,
 		"pop" : 0.4541,
 		"median" : 1200
+	},
+	{
+		"itemType" : "Rifle Riven Mod",
+		"compatibility" : "RUBICO",
+		"rerolled" : true,
+		"avg" : 1793.56,
+		"stddev" : 1406.24,
+		"min" : 5,
+		"max" : 20000,
+		"pop" : 1.8081,
+		"median" : 1500
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -4589,23 +4589,23 @@
 	{
 		"itemType" : "Pistol Riven Mod",
 		"compatibility" : "SEER",
-		"rerolled" : false,
-		"avg" : 89.5,
-		"stddev" : 252.92,
-		"min" : 5,
-		"max" : 1000,
-		"pop" : 0.0385,
-		"median" : 15
-	},
-	{
-		"itemType" : "Pistol Riven Mod",
-		"compatibility" : "SEER",
 		"rerolled" : true,
 		"avg" : 165.8,
 		"stddev" : 269.4,
 		"min" : 4,
 		"max" : 700,
 		"pop" : 0.0138,
+		"median" : 15
+	},
+	{
+		"itemType" : "Pistol Riven Mod",
+		"compatibility" : "SEER",
+		"rerolled" : false,
+		"avg" : 89.5,
+		"stddev" : 252.92,
+		"min" : 5,
+		"max" : 1000,
+		"pop" : 0.0385,
 		"median" : 15
 	},
 	{
@@ -4655,17 +4655,6 @@
 	{
 		"itemType" : "Melee Riven Mod",
 		"compatibility" : "SHAKU",
-		"rerolled" : true,
-		"avg" : 326.25,
-		"stddev" : 524.62,
-		"min" : 35,
-		"max" : 1700,
-		"pop" : 0.022,
-		"median" : 185
-	},
-	{
-		"itemType" : "Melee Riven Mod",
-		"compatibility" : "SHAKU",
 		"rerolled" : false,
 		"avg" : 51.9,
 		"stddev" : 39.23,
@@ -4673,6 +4662,17 @@
 		"max" : 200,
 		"pop" : 0.0578,
 		"median" : 45
+	},
+	{
+		"itemType" : "Melee Riven Mod",
+		"compatibility" : "SHAKU",
+		"rerolled" : true,
+		"avg" : 326.25,
+		"stddev" : 524.62,
+		"min" : 35,
+		"max" : 1700,
+		"pop" : 0.022,
+		"median" : 185
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -4688,17 +4688,6 @@
 	{
 		"itemType" : "Melee Riven Mod",
 		"compatibility" : "SIBEAR",
-		"rerolled" : false,
-		"avg" : 95.29,
-		"stddev" : 201.62,
-		"min" : 8,
-		"max" : 800,
-		"pop" : 0.0385,
-		"median" : 30
-	},
-	{
-		"itemType" : "Melee Riven Mod",
-		"compatibility" : "SIBEAR",
 		"rerolled" : true,
 		"avg" : 130,
 		"stddev" : 167.78,
@@ -4706,6 +4695,17 @@
 		"max" : 420,
 		"pop" : 0.011,
 		"median" : 235
+	},
+	{
+		"itemType" : "Melee Riven Mod",
+		"compatibility" : "SIBEAR",
+		"rerolled" : false,
+		"avg" : 95.29,
+		"stddev" : 201.62,
+		"min" : 8,
+		"max" : 800,
+		"pop" : 0.0385,
+		"median" : 30
 	},
 	{
 		"itemType" : "Pistol Riven Mod",
@@ -4732,17 +4732,6 @@
 	{
 		"itemType" : "Melee Riven Mod",
 		"compatibility" : "SIGMA & OCTANTIS",
-		"rerolled" : true,
-		"avg" : 134.62,
-		"stddev" : 153.93,
-		"min" : 5,
-		"max" : 500,
-		"pop" : 0.0358,
-		"median" : 50
-	},
-	{
-		"itemType" : "Melee Riven Mod",
-		"compatibility" : "SIGMA & OCTANTIS",
 		"rerolled" : false,
 		"avg" : 96.5,
 		"stddev" : 90.84,
@@ -4750,6 +4739,17 @@
 		"max" : 400,
 		"pop" : 0.1156,
 		"median" : 70
+	},
+	{
+		"itemType" : "Melee Riven Mod",
+		"compatibility" : "SIGMA & OCTANTIS",
+		"rerolled" : true,
+		"avg" : 134.62,
+		"stddev" : 153.93,
+		"min" : 5,
+		"max" : 500,
+		"pop" : 0.0358,
+		"median" : 50
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -4798,17 +4798,6 @@
 	{
 		"itemType" : "Melee Riven Mod",
 		"compatibility" : "SKANA",
-		"rerolled" : false,
-		"avg" : 259.19,
-		"stddev" : 633.95,
-		"min" : 10,
-		"max" : 3000,
-		"pop" : 0.0881,
-		"median" : 57.5
-	},
-	{
-		"itemType" : "Melee Riven Mod",
-		"compatibility" : "SKANA",
 		"rerolled" : true,
 		"avg" : 151.73,
 		"stddev" : 154.04,
@@ -4816,6 +4805,17 @@
 		"max" : 450,
 		"pop" : 0.0303,
 		"median" : 120
+	},
+	{
+		"itemType" : "Melee Riven Mod",
+		"compatibility" : "SKANA",
+		"rerolled" : false,
+		"avg" : 259.19,
+		"stddev" : 633.95,
+		"min" : 10,
+		"max" : 3000,
+		"pop" : 0.0881,
+		"median" : 57.5
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -4864,17 +4864,6 @@
 	{
 		"itemType" : "Shotgun Riven Mod",
 		"compatibility" : "SOBEK",
-		"rerolled" : true,
-		"avg" : 150.4,
-		"stddev" : 176.26,
-		"min" : 20,
-		"max" : 875,
-		"pop" : 0.1293,
-		"median" : 70
-	},
-	{
-		"itemType" : "Shotgun Riven Mod",
-		"compatibility" : "SOBEK",
 		"rerolled" : false,
 		"avg" : 197.05,
 		"stddev" : 455.89,
@@ -4882,6 +4871,17 @@
 		"max" : 3000,
 		"pop" : 0.1651,
 		"median" : 65
+	},
+	{
+		"itemType" : "Shotgun Riven Mod",
+		"compatibility" : "SOBEK",
+		"rerolled" : true,
+		"avg" : 150.4,
+		"stddev" : 176.26,
+		"min" : 20,
+		"max" : 875,
+		"pop" : 0.1293,
+		"median" : 70
 	},
 	{
 		"itemType" : "Rifle Riven Mod",
@@ -4974,17 +4974,6 @@
 	{
 		"itemType" : "Pistol Riven Mod",
 		"compatibility" : "STATICOR",
-		"rerolled" : false,
-		"avg" : 113.33,
-		"stddev" : 92.59,
-		"min" : 6,
-		"max" : 750,
-		"pop" : 0.2284,
-		"median" : 100
-	},
-	{
-		"itemType" : "Pistol Riven Mod",
-		"compatibility" : "STATICOR",
 		"rerolled" : true,
 		"avg" : 280.46,
 		"stddev" : 440.48,
@@ -4994,15 +4983,15 @@
 		"median" : 150
 	},
 	{
-		"itemType" : "Rifle Riven Mod",
-		"compatibility" : "STINGER",
-		"rerolled" : true,
-		"avg" : 75,
-		"stddev" : 0,
-		"min" : 75,
-		"max" : 75,
-		"pop" : 0.0028,
-		"median" : 75
+		"itemType" : "Pistol Riven Mod",
+		"compatibility" : "STATICOR",
+		"rerolled" : false,
+		"avg" : 113.33,
+		"stddev" : 92.59,
+		"min" : 6,
+		"max" : 750,
+		"pop" : 0.2284,
+		"median" : 100
 	},
 	{
 		"itemType" : "Rifle Riven Mod",
@@ -5017,14 +5006,14 @@
 	},
 	{
 		"itemType" : "Rifle Riven Mod",
-		"compatibility" : "STRADAVAR",
-		"rerolled" : false,
-		"avg" : 360.37,
-		"stddev" : 923.15,
-		"min" : 10,
-		"max" : 12000,
-		"pop" : 0.4816,
-		"median" : 300
+		"compatibility" : "STINGER",
+		"rerolled" : true,
+		"avg" : 75,
+		"stddev" : 0,
+		"min" : 75,
+		"max" : 75,
+		"pop" : 0.0028,
+		"median" : 75
 	},
 	{
 		"itemType" : "Rifle Riven Mod",
@@ -5038,15 +5027,15 @@
 		"median" : 350
 	},
 	{
-		"itemType" : "Shotgun Riven Mod",
-		"compatibility" : "STRUN",
-		"rerolled" : true,
-		"avg" : 350.64,
-		"stddev" : 543.92,
-		"min" : 20,
-		"max" : 3500,
-		"pop" : 0.1596,
-		"median" : 192.5
+		"itemType" : "Rifle Riven Mod",
+		"compatibility" : "STRADAVAR",
+		"rerolled" : false,
+		"avg" : 360.37,
+		"stddev" : 923.15,
+		"min" : 10,
+		"max" : 12000,
+		"pop" : 0.4816,
+		"median" : 300
 	},
 	{
 		"itemType" : "Shotgun Riven Mod",
@@ -5060,15 +5049,15 @@
 		"median" : 80
 	},
 	{
-		"itemType" : "Pistol Riven Mod",
-		"compatibility" : "STUBBA",
+		"itemType" : "Shotgun Riven Mod",
+		"compatibility" : "STRUN",
 		"rerolled" : true,
-		"avg" : 42.33,
-		"stddev" : 41.12,
-		"min" : 7,
-		"max" : 100,
-		"pop" : 0.0083,
-		"median" : 20
+		"avg" : 350.64,
+		"stddev" : 543.92,
+		"min" : 20,
+		"max" : 3500,
+		"pop" : 0.1596,
+		"median" : 192.5
 	},
 	{
 		"itemType" : "Pistol Riven Mod",
@@ -5080,6 +5069,17 @@
 		"max" : 5400,
 		"pop" : 0.055,
 		"median" : 96
+	},
+	{
+		"itemType" : "Pistol Riven Mod",
+		"compatibility" : "STUBBA",
+		"rerolled" : true,
+		"avg" : 42.33,
+		"stddev" : 41.12,
+		"min" : 7,
+		"max" : 100,
+		"pop" : 0.0083,
+		"median" : 20
 	},
 	{
 		"itemType" : "Pistol Riven Mod",
@@ -5172,17 +5172,6 @@
 	{
 		"itemType" : "Melee Riven Mod",
 		"compatibility" : "SYDON",
-		"rerolled" : false,
-		"avg" : 41.32,
-		"stddev" : 36.92,
-		"min" : 5,
-		"max" : 150,
-		"pop" : 0.0523,
-		"median" : 40
-	},
-	{
-		"itemType" : "Melee Riven Mod",
-		"compatibility" : "SYDON",
 		"rerolled" : true,
 		"avg" : 70.17,
 		"stddev" : 94.17,
@@ -5190,6 +5179,17 @@
 		"max" : 300,
 		"pop" : 0.033,
 		"median" : 37.5
+	},
+	{
+		"itemType" : "Melee Riven Mod",
+		"compatibility" : "SYDON",
+		"rerolled" : false,
+		"avg" : 41.32,
+		"stddev" : 36.92,
+		"min" : 5,
+		"max" : 150,
+		"pop" : 0.0523,
+		"median" : 40
 	},
 	{
 		"itemType" : "Rifle Riven Mod",
@@ -5216,17 +5216,6 @@
 	{
 		"itemType" : "Pistol Riven Mod",
 		"compatibility" : "TALONS",
-		"rerolled" : false,
-		"avg" : 427.38,
-		"stddev" : 1074.53,
-		"min" : 5,
-		"max" : 4300,
-		"pop" : 0.044,
-		"median" : 25
-	},
-	{
-		"itemType" : "Pistol Riven Mod",
-		"compatibility" : "TALONS",
 		"rerolled" : true,
 		"avg" : 20,
 		"stddev" : 15,
@@ -5234,6 +5223,17 @@
 		"max" : 35,
 		"pop" : 0.0055,
 		"median" : NaN
+	},
+	{
+		"itemType" : "Pistol Riven Mod",
+		"compatibility" : "TALONS",
+		"rerolled" : false,
+		"avg" : 427.38,
+		"stddev" : 1074.53,
+		"min" : 5,
+		"max" : 4300,
+		"pop" : 0.044,
+		"median" : 25
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -5282,17 +5282,6 @@
 	{
 		"itemType" : "Rifle Riven Mod",
 		"compatibility" : "TENORA",
-		"rerolled" : true,
-		"avg" : 269.39,
-		"stddev" : 365.99,
-		"min" : 25,
-		"max" : 2000,
-		"pop" : 0.1349,
-		"median" : 100
-	},
-	{
-		"itemType" : "Rifle Riven Mod",
-		"compatibility" : "TENORA",
 		"rerolled" : false,
 		"avg" : 129.5,
 		"stddev" : 274.72,
@@ -5300,6 +5289,17 @@
 		"max" : 1800,
 		"pop" : 0.1871,
 		"median" : 70
+	},
+	{
+		"itemType" : "Rifle Riven Mod",
+		"compatibility" : "TENORA",
+		"rerolled" : true,
+		"avg" : 269.39,
+		"stddev" : 365.99,
+		"min" : 25,
+		"max" : 2000,
+		"pop" : 0.1349,
+		"median" : 100
 	},
 	{
 		"itemType" : "Rifle Riven Mod",
@@ -5326,17 +5326,6 @@
 	{
 		"itemType" : "Rifle Riven Mod",
 		"compatibility" : "TIBERON",
-		"rerolled" : false,
-		"avg" : 230.79,
-		"stddev" : 206.79,
-		"min" : 2,
-		"max" : 2200,
-		"pop" : 0.3082,
-		"median" : 200
-	},
-	{
-		"itemType" : "Rifle Riven Mod",
-		"compatibility" : "TIBERON",
 		"rerolled" : true,
 		"avg" : 584.11,
 		"stddev" : 932.82,
@@ -5344,6 +5333,17 @@
 		"max" : 8000,
 		"pop" : 0.611,
 		"median" : 300
+	},
+	{
+		"itemType" : "Rifle Riven Mod",
+		"compatibility" : "TIBERON",
+		"rerolled" : false,
+		"avg" : 230.79,
+		"stddev" : 206.79,
+		"min" : 2,
+		"max" : 2200,
+		"pop" : 0.3082,
+		"median" : 200
 	},
 	{
 		"itemType" : "Shotgun Riven Mod",
@@ -5370,17 +5370,6 @@
 	{
 		"itemType" : "Melee Riven Mod",
 		"compatibility" : "TIPEDO",
-		"rerolled" : true,
-		"avg" : 490.59,
-		"stddev" : 524.28,
-		"min" : 2,
-		"max" : 4000,
-		"pop" : 0.3192,
-		"median" : 350
-	},
-	{
-		"itemType" : "Melee Riven Mod",
-		"compatibility" : "TIPEDO",
 		"rerolled" : false,
 		"avg" : 338.65,
 		"stddev" : 329.93,
@@ -5390,15 +5379,15 @@
 		"median" : 300
 	},
 	{
-		"itemType" : "Kitgun Riven Mod",
-		"compatibility" : "TOMBFINGER",
+		"itemType" : "Melee Riven Mod",
+		"compatibility" : "TIPEDO",
 		"rerolled" : true,
-		"avg" : 385.58,
-		"stddev" : 834.65,
-		"min" : 4,
-		"max" : 6400,
-		"pop" : 0.7348,
-		"median" : 150
+		"avg" : 490.59,
+		"stddev" : 524.28,
+		"min" : 2,
+		"max" : 4000,
+		"pop" : 0.3192,
+		"median" : 350
 	},
 	{
 		"itemType" : "Kitgun Riven Mod",
@@ -5410,6 +5399,17 @@
 		"max" : 6000,
 		"pop" : 0.6853,
 		"median" : 60
+	},
+	{
+		"itemType" : "Kitgun Riven Mod",
+		"compatibility" : "TOMBFINGER",
+		"rerolled" : true,
+		"avg" : 385.58,
+		"stddev" : 834.65,
+		"min" : 4,
+		"max" : 6400,
+		"pop" : 0.7348,
+		"median" : 150
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -5436,17 +5436,6 @@
 	{
 		"itemType" : "Rifle Riven Mod",
 		"compatibility" : "TONKOR",
-		"rerolled" : true,
-		"avg" : 141.56,
-		"stddev" : 306.58,
-		"min" : 10,
-		"max" : 1300,
-		"pop" : 0.044,
-		"median" : 47.5
-	},
-	{
-		"itemType" : "Rifle Riven Mod",
-		"compatibility" : "TONKOR",
 		"rerolled" : false,
 		"avg" : 152.5,
 		"stddev" : 342.26,
@@ -5457,14 +5446,14 @@
 	},
 	{
 		"itemType" : "Rifle Riven Mod",
-		"compatibility" : "TORID",
+		"compatibility" : "TONKOR",
 		"rerolled" : true,
-		"avg" : 153.33,
-		"stddev" : 136.14,
-		"min" : 30,
-		"max" : 500,
-		"pop" : 0.0248,
-		"median" : 100
+		"avg" : 141.56,
+		"stddev" : 306.58,
+		"min" : 10,
+		"max" : 1300,
+		"pop" : 0.044,
+		"median" : 47.5
 	},
 	{
 		"itemType" : "Rifle Riven Mod",
@@ -5478,15 +5467,15 @@
 		"median" : 30
 	},
 	{
-		"itemType" : "Melee Riven Mod",
-		"compatibility" : "TWIN BASOLK",
-		"rerolled" : false,
-		"avg" : 108.57,
-		"stddev" : 249.8,
-		"min" : 10,
-		"max" : 1000,
-		"pop" : 0.0385,
-		"median" : 30
+		"itemType" : "Rifle Riven Mod",
+		"compatibility" : "TORID",
+		"rerolled" : true,
+		"avg" : 153.33,
+		"stddev" : 136.14,
+		"min" : 30,
+		"max" : 500,
+		"pop" : 0.0248,
+		"median" : 100
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -5498,6 +5487,17 @@
 		"max" : 1400,
 		"pop" : 0.0083,
 		"median" : 15
+	},
+	{
+		"itemType" : "Melee Riven Mod",
+		"compatibility" : "TWIN BASOLK",
+		"rerolled" : false,
+		"avg" : 108.57,
+		"stddev" : 249.8,
+		"min" : 10,
+		"max" : 1000,
+		"pop" : 0.0385,
+		"median" : 30
 	},
 	{
 		"itemType" : "Pistol Riven Mod",
@@ -5612,17 +5612,6 @@
 	{
 		"itemType" : "Pistol Riven Mod",
 		"compatibility" : "TWIN VIPERS",
-		"rerolled" : false,
-		"avg" : 62.55,
-		"stddev" : 91.27,
-		"min" : 8,
-		"max" : 300,
-		"pop" : 0.0303,
-		"median" : 25
-	},
-	{
-		"itemType" : "Pistol Riven Mod",
-		"compatibility" : "TWIN VIPERS",
 		"rerolled" : true,
 		"avg" : 181.11,
 		"stddev" : 159.32,
@@ -5633,14 +5622,14 @@
 	},
 	{
 		"itemType" : "Pistol Riven Mod",
-		"compatibility" : "TYSIS",
-		"rerolled" : true,
-		"avg" : 47.5,
-		"stddev" : 42.5,
-		"min" : 5,
-		"max" : 90,
-		"pop" : 0.0055,
-		"median" : NaN
+		"compatibility" : "TWIN VIPERS",
+		"rerolled" : false,
+		"avg" : 62.55,
+		"stddev" : 91.27,
+		"min" : 8,
+		"max" : 300,
+		"pop" : 0.0303,
+		"median" : 25
 	},
 	{
 		"itemType" : "Pistol Riven Mod",
@@ -5655,14 +5644,14 @@
 	},
 	{
 		"itemType" : "Pistol Riven Mod",
-		"compatibility" : "VASTO",
+		"compatibility" : "TYSIS",
 		"rerolled" : true,
-		"avg" : 206.58,
-		"stddev" : 197.98,
-		"min" : 30,
-		"max" : 850,
-		"pop" : 0.0523,
-		"median" : 150
+		"avg" : 47.5,
+		"stddev" : 42.5,
+		"min" : 5,
+		"max" : 90,
+		"pop" : 0.0055,
+		"median" : NaN
 	},
 	{
 		"itemType" : "Pistol Riven Mod",
@@ -5676,15 +5665,15 @@
 		"median" : 30
 	},
 	{
-		"itemType" : "Rifle Riven Mod",
-		"compatibility" : "VECTIS",
+		"itemType" : "Pistol Riven Mod",
+		"compatibility" : "VASTO",
 		"rerolled" : true,
-		"avg" : 613.79,
-		"stddev" : 980.49,
-		"min" : 10,
-		"max" : 10000,
-		"pop" : 1.032,
-		"median" : 300
+		"avg" : 206.58,
+		"stddev" : 197.98,
+		"min" : 30,
+		"max" : 850,
+		"pop" : 0.0523,
+		"median" : 150
 	},
 	{
 		"itemType" : "Rifle Riven Mod",
@@ -5699,14 +5688,14 @@
 	},
 	{
 		"itemType" : "Rifle Riven Mod",
-		"compatibility" : "VELDT",
-		"rerolled" : false,
-		"avg" : 371.11,
-		"stddev" : 1126.11,
-		"min" : 15,
-		"max" : 5100,
-		"pop" : 0.0523,
-		"median" : 50
+		"compatibility" : "VECTIS",
+		"rerolled" : true,
+		"avg" : 613.79,
+		"stddev" : 980.49,
+		"min" : 10,
+		"max" : 10000,
+		"pop" : 1.032,
+		"median" : 300
 	},
 	{
 		"itemType" : "Rifle Riven Mod",
@@ -5720,15 +5709,15 @@
 		"median" : 110
 	},
 	{
-		"itemType" : "Melee Riven Mod",
-		"compatibility" : "VENKA",
+		"itemType" : "Rifle Riven Mod",
+		"compatibility" : "VELDT",
 		"rerolled" : false,
-		"avg" : 35,
-		"stddev" : 24.06,
-		"min" : 10,
-		"max" : 120,
+		"avg" : 371.11,
+		"stddev" : 1126.11,
+		"min" : 15,
+		"max" : 5100,
 		"pop" : 0.0523,
-		"median" : 30
+		"median" : 50
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -5742,15 +5731,15 @@
 		"median" : 150
 	},
 	{
-		"itemType" : "Pistol Riven Mod",
-		"compatibility" : "VIPER",
+		"itemType" : "Melee Riven Mod",
+		"compatibility" : "VENKA",
 		"rerolled" : false,
-		"avg" : 22.78,
-		"stddev" : 28.07,
-		"min" : 7,
-		"max" : 100,
-		"pop" : 0.0248,
-		"median" : 10
+		"avg" : 35,
+		"stddev" : 24.06,
+		"min" : 10,
+		"max" : 120,
+		"pop" : 0.0523,
+		"median" : 30
 	},
 	{
 		"itemType" : "Pistol Riven Mod",
@@ -5764,15 +5753,15 @@
 		"median" : NaN
 	},
 	{
-		"itemType" : "Melee Riven Mod",
-		"compatibility" : "VOLNUS",
-		"rerolled" : true,
-		"avg" : 107,
-		"stddev" : 134.3,
-		"min" : 25,
-		"max" : 500,
-		"pop" : 0.0275,
-		"median" : 82.5
+		"itemType" : "Pistol Riven Mod",
+		"compatibility" : "VIPER",
+		"rerolled" : false,
+		"avg" : 22.78,
+		"stddev" : 28.07,
+		"min" : 7,
+		"max" : 100,
+		"pop" : 0.0248,
+		"median" : 10
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -5784,6 +5773,17 @@
 		"max" : 1400,
 		"pop" : 0.0771,
 		"median" : 50
+	},
+	{
+		"itemType" : "Melee Riven Mod",
+		"compatibility" : "VOLNUS",
+		"rerolled" : true,
+		"avg" : 107,
+		"stddev" : 134.3,
+		"min" : 25,
+		"max" : 500,
+		"pop" : 0.0275,
+		"median" : 82.5
 	},
 	{
 		"itemType" : "Rifle Riven Mod",
@@ -5810,17 +5810,6 @@
 	{
 		"itemType" : "Rifle Riven Mod",
 		"compatibility" : "VULKLOK",
-		"rerolled" : true,
-		"avg" : 181.71,
-		"stddev" : 147.44,
-		"min" : 20,
-		"max" : 500,
-		"pop" : 0.0193,
-		"median" : 102
-	},
-	{
-		"itemType" : "Rifle Riven Mod",
-		"compatibility" : "VULKLOK",
 		"rerolled" : false,
 		"avg" : 162.69,
 		"stddev" : 80.21,
@@ -5828,6 +5817,17 @@
 		"max" : 300,
 		"pop" : 0.0358,
 		"median" : 200
+	},
+	{
+		"itemType" : "Rifle Riven Mod",
+		"compatibility" : "VULKLOK",
+		"rerolled" : true,
+		"avg" : 181.71,
+		"stddev" : 147.44,
+		"min" : 20,
+		"max" : 500,
+		"pop" : 0.0193,
+		"median" : 102
 	},
 	{
 		"itemType" : "Melee Riven Mod",
@@ -5876,17 +5876,6 @@
 	{
 		"itemType" : "Pistol Riven Mod",
 		"compatibility" : "ZAKTI",
-		"rerolled" : false,
-		"avg" : 214.55,
-		"stddev" : 765.02,
-		"min" : 10,
-		"max" : 4300,
-		"pop" : 0.0908,
-		"median" : 30
-	},
-	{
-		"itemType" : "Pistol Riven Mod",
-		"compatibility" : "ZAKTI",
 		"rerolled" : true,
 		"avg" : 67.83,
 		"stddev" : 47.89,
@@ -5894,6 +5883,17 @@
 		"max" : 150,
 		"pop" : 0.0165,
 		"median" : 85
+	},
+	{
+		"itemType" : "Pistol Riven Mod",
+		"compatibility" : "ZAKTI",
+		"rerolled" : false,
+		"avg" : 214.55,
+		"stddev" : 765.02,
+		"min" : 10,
+		"max" : 4300,
+		"pop" : 0.0908,
+		"median" : 30
 	},
 	{
 		"itemType" : "Rifle Riven Mod",
@@ -5964,17 +5964,6 @@
 	{
 		"itemType" : "Rifle Riven Mod",
 		"compatibility" : "ZHUGE",
-		"rerolled" : true,
-		"avg" : 235,
-		"stddev" : 335.61,
-		"min" : 5,
-		"max" : 1000,
-		"pop" : 0.0193,
-		"median" : 60
-	},
-	{
-		"itemType" : "Rifle Riven Mod",
-		"compatibility" : "ZHUGE",
 		"rerolled" : false,
 		"avg" : 175.4,
 		"stddev" : 361.6,
@@ -5984,15 +5973,15 @@
 		"median" : 30
 	},
 	{
-		"itemType" : "Pistol Riven Mod",
-		"compatibility" : "ZYLOK",
+		"itemType" : "Rifle Riven Mod",
+		"compatibility" : "ZHUGE",
 		"rerolled" : true,
-		"avg" : 701.22,
-		"stddev" : 1548.95,
-		"min" : 13,
-		"max" : 5000,
-		"pop" : 0.0248,
-		"median" : 50
+		"avg" : 235,
+		"stddev" : 335.61,
+		"min" : 5,
+		"max" : 1000,
+		"pop" : 0.0193,
+		"median" : 60
 	},
 	{
 		"itemType" : "Pistol Riven Mod",
@@ -6004,5 +5993,16 @@
 		"max" : 8000,
 		"pop" : 0.0413,
 		"median" : 20
+	},
+	{
+		"itemType" : "Pistol Riven Mod",
+		"compatibility" : "ZYLOK",
+		"rerolled" : true,
+		"avg" : 701.22,
+		"stddev" : 1548.95,
+		"min" : 13,
+		"max" : 5000,
+		"pop" : 0.0248,
+		"median" : 50
 	}
 ]
