@@ -1,3 +1,4 @@
+
 [
 	{
 		"itemType" : "Kitgun Riven Mod",
@@ -1646,7 +1647,7 @@
 		"stddev" : 53.02,
 		"min" : 12,
 		"max" : 250,
-		"pop" : 0.195,
+		"pop" : 0.15,
 		"median" : 50
 	},
 	{
