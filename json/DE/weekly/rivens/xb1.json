@@ -1685,8 +1685,6 @@
 	{
 		"itemType" : "Shotgun Riven Mod",
 		"compatibility" : "DRAKGOON",
-		"rerolled" :ype" : "Shotgun Riven Mod",
-		"compatibility" : "DRAKGOON",
 		"rerolled" : false,
 		"avg" : 80,
 		"stddev" : 0,
@@ -5594,4 +5592,10 @@
 		"compatibility" : "ZYLOK",
 		"rerolled" : true,
 		"avg" : 250,
-		"stdd
+		"stddev" : 0,
+		"min" : 250,
+		"max" : 250,
+		"pop" : 1,
+		"median" : 250
+	}
+]
