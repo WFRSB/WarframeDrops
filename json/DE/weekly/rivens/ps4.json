@@ -1684,11 +1684,6 @@
 	},
 	{
 		"itemType" : "Rifle Riven Mod",
-		"compatibi 1,
-		"median" : 170
-	},
-	{
-		"itemType" : "Rifle Riven Mod",
 		"compatibility" : "DETH MACHINE RIFLE",
 		"rerolled" : true,
 		"avg" : 116.67,
@@ -5938,4 +5933,10 @@
 		"compatibility" : "ZYLOK",
 		"rerolled" : true,
 		"avg" : 98.75,
-		"stdd
+		"stddev" : 93.7,
+		"min" : 5,
+		"max" : 250,
+		"pop" : 1,
+		"median" : 70
+	}
+]
