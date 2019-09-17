@@ -1688,10 +1688,6 @@
 		"rerolled" : false,
 		"avg" : 30,
 		"stddev" : 0,
-		"mi"DUAL CLEAVERS",
-		"rerolled" : false,
-		"avg" : 30,
-		"stddev" : 0,
 		"min" : 30,
 		"max" : 30,
 		"pop" : 1,
@@ -5343,4 +5339,10 @@
 		"compatibility" : "ZYLOK",
 		"rerolled" : true,
 		"avg" : 44,
-		"st
+		"stddev" : 32,
+		"min" : 10,
+		"max" : 90,
+		"pop" : 1,
+		"median" : 40
+	}
+]
