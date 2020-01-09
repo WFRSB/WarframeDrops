@@ -1683,11 +1683,6 @@
 		"median" : 178
 	},
 	{
-		"itemType" : "Pistol R"max" : 344,
-		"pop" : 1,
-		"median" : 178
-	},
-	{
 		"itemType" : "Pistol Riven Mod",
 		"compatibility" : "DESPAIR",
 		"rerolled" : false,
@@ -6224,4 +6219,10 @@
 		"compatibility" : "ZYLOK",
 		"rerolled" : true,
 		"avg" : 87,
-		"s
+		"stddev" : 0,
+		"min" : 87,
+		"max" : 87,
+		"pop" : 1,
+		"median" : 87
+	}
+]
